@@ -1,8 +1,8 @@
-repo_url: https://github.com/EKiefer/training
+repo_url: https://github.com/northshorewc/ccr2016
 remote_branch: gh-pages
-site_url: https://ekiefer.github.io/training
+site_url: https://northshorewc.github.io/ccr2016
 site_author: Eric Kiefer
-site_name: NSWC Training
+site_name: 2016 Annual Water Quality Report
 theme: material
 theme_dir: theme
 extra_javascript: 
@@ -15,8 +15,3 @@ markdown_extensions:
   # - pymdownx.arithmatex:
 pages:
   - Home: index.md
-  - Modules: modules.md
-  - General Concepts: 
-    - Operator Math: general_concepts/operator_math.md
-    - Operator Chemistry : general_concepts/operator_chemistry.md
-  - About: about.md
