@@ -4,7 +4,7 @@ site_url: https://northshorewc.github.io/ccr2016
 site_author: Eric Kiefer
 site_name: 2016 Annual Water Quality Report
 theme: readthedocs
-# theme_dir: theme
+theme_dir: readthedocs-theme
 extra_javascript: 
   # - https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML
   - https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_CHTML-full
@@ -12,8 +12,7 @@ extra_javascript:
 markdown_extensions:
   - admonition:
   - def_list:
-  - footnotes:
-    # - PLACE_HOLDER: ///Footnotes Go Here///
+  - footnotes: 
   - toc:
   - mdx_math:
   # - pymdownx.arithmatex:
