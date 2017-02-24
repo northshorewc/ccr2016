@@ -1,6 +1,6 @@
 ---
 Author: Eric Kiefer
-Date: 2/22/2017
+Date: 2/24/2017
 ---
 
 ![nswc-logo](img/nswc-logo-long.png)  
@@ -300,6 +300,8 @@ Drinking water, including bottled water, may reasonably be expected to contain a
 ### Lead Information
 
 If present, elevated levels of lead can cause serious health problems, especially for pregnant women and young children. Lead in drinking water is primarily from materials and components associated with service lines and home plumbing. North Shore Water Commission is responsible for providing high quality drinking water, but cannot control the variety of materials used in plumbing components. When your water has been sitting for several hours, you can minimize the potential for lead exposure by flushing your tap for 3 minutes before using water for drinking or cooking. If you are concerned about lead in your water, you may wish to have your water tested. Information on lead in drinking water, testing methods, and steps you can take to minimize exposure is available from the Safe Drinking Water Hotline or at [www.epa.gov/safewater/lead](www.epa.gov/safewater/lead).  
+
+[For more information about lead, click here to see additional information.](lead.md)
 
 * * *
 

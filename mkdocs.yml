@@ -18,3 +18,4 @@ markdown_extensions:
   # - pymdownx.arithmatex:
 pages:
   - Home: index.md
+  - Additional Lead Information: lead.md
