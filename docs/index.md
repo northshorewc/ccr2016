@@ -404,5 +404,3 @@ Association |
 [Wisconsin Water Works Association](http://www.wiawwa.org/)  
 
 * * *   -->
-
-## Footnotes
