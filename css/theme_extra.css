@@ -144,6 +144,9 @@ form .search-query {
 .wy-menu-vertical .subnav li.current > ul li a {
     padding-left: 3.23em;
 }
+/*.wy-nav-content {
+  max-width: 1000px;
+}*/
 
 /*
  * Improve inline code blocks within admonitions.
