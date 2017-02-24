@@ -13,18 +13,22 @@ This report is available upon request to the public. For a paper copy, please co
 
 The North Shore Water Commission, in cooperation with its member utilities, publishes a water quality report annually. The report is designed so you can clearly understand what’s in your drinking water and how to obtain additional information. Thank you for being a valued customer!
 
+* * *
+
 ## North Shore Water Commission
 
 The North Shore Water Commission (NSWC) operates and maintains the Water Filtration Plant at 400 West Bender Road in Glendale as well as the Raw Water Pumping Station located in Whitefish Bay. The NSWC is responsible for purifying and pumping potable water to its member utilities which include Fox Point, Glendale, and Whitefish Bay. Via a wholesale water agreement, water is also provided to some areas served by Mequon Water Utility. If you want to know more about water quality or this report, please contact the Plant Manager at (414) 963-0160 or at [info@northshorewc.com](mailto:info@northshorewc.com).
+
+* * *
 
 ## Water Utilities
 
 Your water utility is responsible for connecting customers to the water system, metering, and responding to distribution problems such as main breaks. You can find out who your water utility is by checking your water bill. If you experience a water-related problem or have questions about your water bill, please contact your water utility for assistance. 
 
-<center>[Fox Point Water Utility](http://www.villageoffoxpoint.com/)</center>| <center>[Glendale Water Utility](http://www.glendale-wi.org/)</center>| <center>[Whitefish Bay Water Utility](http://www.wfbvillage.org/)</center>
------------------------------------------------|--------------------------------------------------------|-----------------------------------------
-<center>![Fox Point Logo](img/fox-point-logo-150.png)</center>  | <center>![Glendale Logo](img/glendale-logo-150.png)</center>  | <center>![Whitefish Bay Logo](img/wfb-logo-150-250.png)</center>
-<center>(414) 351-8900</center> | <center>(414) 228-1719</center> | <center>(414) 962-6690</center>
+[Fox Point Water Utility](http://www.villageoffoxpoint.com/)| [Glendale Water Utility](http://www.glendale-wi.org/)| [Whitefish Bay Water Utility](http://www.wfbvillage.org/)
+:----------------------------------------------------------:|:-----------------------------------------------------:|:--------------------------------------------------------:
+![Fox Point Logo](img/fox-point-logo-150.png)  | ![Glendale Logo](img/glendale-logo-150.png)  | ![Whitefish Bay Logo](img/wfb-logo-150-250.png)
+(414) 351-8900 | (414) 228-1719 | (414) 962-6690
 
 * * *
 
@@ -56,15 +60,21 @@ Fox Point, Glendale, and Whitefish Bay jointly own the facilities of the North S
 
 The NSWC is governed by three appointed Commissioners and three Alternates with equal representation from Fox Point, Glendale, and Whitefish Bay. Each member is appointed by his/her respective municipality for a term of one year. Annually, the responsibilities of Chairman, Secretary and Member are rotated giving each community equal share of authority.
 
-Under normal circumstances, the NSWC convenes monthly and reviews the operation and maintenance of the water treatment facility as well as water quality concerns. After discussion, the NSWC votes on proposed action, spending, and budgets. Capital improvements, such as the UV disinfection upgrade, must be unanimously approved and financed by the member communities.
+Under normal circumstances, the NSWC convenes monthly and reviews the operation and maintenance of the water treatment facility as well as water quality concerns. After discussion, the NSWC votes on proposed action, spending, and budgets. Capital improvements, such as the UV disinfection upgrade, must be unanimously approved and financed by the member communities.  
+
+* * *
 
 ## Public Meetings
 
-Regular meetings are usually held on the 2nd Wednesday of the month at 8:00 AM in the conference room located at 400 West Bender Road, Glendale. The public is welcome to attend any of our meetings. Please note that they may be held at different times or locations. You can view the agenda at [http://northshorewater.org/index.php/meetings](http://northshorewater.org/index.php/meetings) to find out more information about past or upcoming meetings. The agenda is typically posted 3 to 5 days prior to a meeting.
+Regular meetings are usually held on the 2nd Wednesday of the month at 8:00 AM in the conference room located at 400 West Bender Road, Glendale. The public is welcome to attend any of our meetings. Please note that they may be held at different times or locations. You can view the agenda at [http://northshorewater.org/index.php/meetings](http://northshorewater.org/index.php/meetings) to find out more information about past or upcoming meetings. The agenda is typically posted 3 to 5 days prior to a meeting.  
+
+* * *
 
 ## More Information About Us
 
-For additional information about water quality on the internet, please visit WDNR’s website at [http://dnr.wi.gov/topic/DrinkingWater](http://dnr.wi.gov/topic/DrinkingWater), the EPA’s web site at [http://www.epa.gov/safewater](http://www.epa.gov/safewater), or our web site at [http://www.northshorewater.org](http://www.northshorewater.org). For more information about our member communities visit: [http://www.villageoffoxpoint.com](http://www.villageoffoxpoint.com/), [http://www.glendale-wi.org/](http://www.glendale-wi.org/), and [http://www.wfbvillage.org/](http://www.wfbvillage.org/).
+For additional information about water quality on the internet, please visit WDNR’s website at [http://dnr.wi.gov/topic/DrinkingWater](http://dnr.wi.gov/topic/DrinkingWater), the EPA’s web site at [http://www.epa.gov/safewater](http://www.epa.gov/safewater), or our web site at [http://www.northshorewater.org](http://www.northshorewater.org). For more information about our member communities visit: [http://www.villageoffoxpoint.com](http://www.villageoffoxpoint.com/), [http://www.glendale-wi.org/](http://www.glendale-wi.org/), and [http://www.wfbvillage.org/](http://www.wfbvillage.org/).  
+
+* * *
 
 ## Definitions  
 
@@ -87,9 +97,13 @@ Treatment Technique | TT |  A treatment technique is a required process intended
 Trihalomethanes | TTHM | Chloroform, bromodichloromethane, dibromochloromethan, and bromoform. This is a class of disinfection by-products.  
 Turbidity | | Turbidiy has no health effects. However, turbidity can interfere with disinfection and provide a medium for microbial growth. Turbidity may indicate the presence of disease-causing organisms.  
 
+* * *
+
 ## Regulatory Compliance
 
 We are proud to report that our system has not violated a maximum contaminant level or any other water quality standard. The following tables lists the contaminants that were detected. This report may contain up to five years worth of water quality results. If tested annually, or more frequently, the results from the most recent year are shown on this report. If testing is done less frequently, the results are shown from the most recent testing event.  Please note that we did not test for radon during 2016 because we were not required to.
+
+Please note that the meaning of "level found" will vary depending on how many samples were collected in a year and the particular regulation it pertains to. If a contaminant was only tested annualy, a single value will be reported as "level found." If contaminant was tested more than once during the year, the minimum and maximum values (range) will be reported below the level found in parentheses. In most cases, "level found" will be the maximum level detected.  
 
 * * *
 
@@ -99,14 +113,16 @@ The NSWC and its member utilities work together to ensure the water it delivers 
 
 *Microbiological*  
 
+
 Substance | MCLG | MCL | Level Found | Status | Sources of Contamination
-----------|------|-----|------------------|--------|-------------------------
-[^1] Coliform (TCR) | 0% positive samples | 5% of monthly samples | 0% |  <i class="fa fa-smile-o" aria-hidden="true"></i> | Naturally present in the environment
+----------|:----:|:---:|:-----------:|:------:|-------------------------
+[^1] Coliform (TCR) | 0% positive samples | 5% of monthly samples | 0% |  <i class="fa fa-smile-o" aria-hidden="true"></i> | Naturally present in the environment  
+
 
 *Inorganic*   
 
 Substance | MCLG | MCL | Level Found | Status | Sources of Contamination
-----------|------|-----|------------------|--------|-------------------------
+----------|:----:|:---:|:-----------:|:------:|-------------------------
 Antimony | 6 ug/L | 6 ug/L | x ug/L |  <i class="fa fa-smile-o" aria-hidden="true"></i> | Discharge from petroleum refineries; fire retardants; ceramics; electronics; solder
 Arsenic | NA | 10 ug/L | x ug/L |  <i class="fa fa-smile-o" aria-hidden="true"></i> | Erosion of natural deposits; runoff from orchards; runoff from glass and electronics productions wastes  
 Barium | 2 mg/L | 2 mg/L | x mg/L |  <i class="fa fa-smile-o" aria-hidden="true"></i> | Discharge of drilling wasts; discharge from metal refineries; erosion of natural deposits
@@ -119,17 +135,22 @@ Nickel | NA | 100 ug/L | x ug/L | <i class="fa fa-smile-o" aria-hidden="true"></
 Nitrate (NO3-N) | 10 mg/L | 10 mg/L | x mg/L | <i class="fa fa-smile-o" aria-hidden="true"></i> | Runoff from fertilizer use; Leaching from septic tanks, sewage; erosion of natural deposits
 Sodium | NA | NA | x mg/L | <i class="fa fa-smile-o" aria-hidden="true"></i> | NA 
 
+**Footnotes**
+
+///Footnotes Go Here///
+
+* * *
 
 *Synthetic Organic Contaminants including Pesticides and Herbicides*
 
 Substance | MCLG | MCL | Level Found | Status | Sources of Contamination
-----------|------|-----|------------------|--------|-------------------------
+----------|:----:|:---:|:-----------:|:------:|-------------------------
 Hexachlorocyclo- pentadiene | 50 ug/L | 50 ug/L | x ug/L | <i class="fa fa-smile-o" aria-hidden="true"></i> | Discharge from chemical factories
 
 *Unregulated Contaminants*  
 
 Substance | MCLG | MCL | Level Found | Status | Sources of Contamination
-----------|------|-----|------------------|--------|-------------------------
+----------|:----:|:---:|:-----------:|:------:|-------------------------
 Sulfate | NA | NA | x mg/L | <i class="fa fa-smile-o" aria-hidden="true"></i> | NA
 
 
@@ -138,7 +159,7 @@ Sulfate | NA | NA | x mg/L | <i class="fa fa-smile-o" aria-hidden="true"></i> | 
 The following monitoring was assigned to the NSWC in the past. Due to a change in monitoring responsibilities, these contaminants are now monitored by each member utility.
 
 Substance | MCLG | MCL | Level Found | Status | Sources of Contamination
-----------|------|-----|------------------|--------|-------------------------
+----------|:----:|:---:|:-----------:|:------:|-------------------------
 HAA5 (9/17/2013) | 60 ug/L | 60 ug/L | x ug/L | <i class="fa fa-smile-o" aria-hidden="true"></i> | By-product of drinking water chlorination 
 TTHM (9/17/2013) | 0 ug/L | 80 ug/L | x ug/L |<i class="fa fa-smile-o" aria-hidden="true"></i> | By-product of drinking water chlorination 
 
@@ -147,7 +168,7 @@ TTHM (9/17/2013) | 0 ug/L | 80 ug/L | x ug/L |<i class="fa fa-smile-o" aria-hidd
 The following monitoring was assigned to the NSWC in the past. Due to a change in monitoring responsibilities, these contaminants are now monitored by each member utility. 
 
 Substance | MCLG | MCL | Level Found | Status | Sources of Contamination
-----------|------|-----|------------------|--------|-------------------------
+----------|:----:|:---:|:-----------:|:------:|-------------------------
 Bromodichloro- methane (2014) | NA | NA | x ug/L | <i class="fa fa-smile-o" aria-hidden="true"></i> | By-product of drinking water chlorination  
 Bromoform (2014) | NA | NA | x ug/L | <i class="fa fa-smile-o" aria-hidden="true"></i> | By-product of drinking water chlorination  
 Chloroform (2014) | NA | NA | x ug/L | <i class="fa fa-smile-o" aria-hidden="true"></i> | By-product of drinking water chlorination 
@@ -163,7 +184,7 @@ The following table lists what contaminants were detected from the monitoring as
 *Disinfection By-Products*   
 
 Substance | MCLG | MCL | Level Found | Status | Sources of Contamination
-----------|------|-----|------------------|--------|-------------------------
+----------|:----:|:---:|:-----------:|:------:|-------------------------
 HAA5  | 60 ug/L | 60 ug/L | x ug/L | <i class="fa fa-smile-o" aria-hidden="true"></i> | By-product of drinking water chlorination
 TTHM  | 0 ug/L | 80 ug/L | x ug/L |<i class="fa fa-smile-o" aria-hidden="true"></i> | By-product of drinking water chlorination
 
@@ -176,7 +197,7 @@ The following table lists what contaminants were detected from the monitoring as
 *Disinfection By-Products*   
 
 Substance | MCLG | MCL | Level Found | Status | Sources of Contamination
-----------|------|-----|------------------|--------|-------------------------
+----------|:----:|:---:|:-----------:|:------:|-------------------------
 HAA5  | 60 ug/L | 60 ug/L | x ug/L | <i class="fa fa-smile-o" aria-hidden="true"></i> | By-product of drinking water chlorination
 TTHM  | 0 ug/L | 80 ug/L | x ug/L |<i class="fa fa-smile-o" aria-hidden="true"></i> | By-product of drinking water chlorination
 
@@ -186,7 +207,7 @@ TTHM  | 0 ug/L | 80 ug/L | x ug/L |<i class="fa fa-smile-o" aria-hidden="true"><
 EPA periodically requires water systems to test for unregulated contaminants to better understand their occurrence in drinking water. These compounds are not regulated, and therefore, have no additional reporting and/or treatment requirements. Glendale was selected by EPA to conduct this testing in 2013.
 
 Substance | MCLG | MCL | Level Found | Status | Sources of Contamination
-----------|------|-----|------------------|--------|-------------------------
+----------|:----:|:---:|:-----------:|:------:|-------------------------
 Chlorate (2013) | NA | NA | x ug/L | <i class="fa fa-smile-o" aria-hidden="true"></i> | Agricultural defoliant or desiccant; disinfection byproduct; used in chlorine dioxide production
 Chromium-Total (2013) | NA | 100 mg/L | x ug/L | <i class="fa fa-smile-o" aria-hidden="true"></i> | Sum of chromium in all valence states See chromium-6 for more information.
 Chromium-6 (2013) | NA | NA | x ug/L | <i class="fa fa-smile-o" aria-hidden="true"></i> | Naturally-occuring element; used in making steel and other alloys; chromium-3 and -6 forms are used for chrome plating, dyes and pigments, leather tanning, and wood preservation
@@ -203,8 +224,8 @@ The following is a complete list of compounds that were tested under this regula
 
 The following table lists what contaminants were detected from the monitoring assigned specifically to the Village of Whitefish Bay.
 
-SSubstance | MCLG | MCL | Level Found | Status | Sources of Contamination
-----------|------|-----|------------------|--------|-------------------------
+Substance | MCLG | MCL | Level Found | Status | Sources of Contamination
+----------|:----:|:---:|:-----------:|:------:|-------------------------
 HAA5  | 60 ug/L | 60 ug/L | x ug/L | <i class="fa fa-smile-o" aria-hidden="true"></i> | By-product of drinking water chlorination
 TTHM  | 0 ug/L | 80 ug/L | x ug/L |<i class="fa fa-smile-o" aria-hidden="true"></i> | By-product of drinking water chlorination
 
@@ -214,7 +235,7 @@ TTHM  | 0 ug/L | 80 ug/L | x ug/L |<i class="fa fa-smile-o" aria-hidden="true"><
 EPA periodically requires water systems to test for unregulated contaminants to better understand their occurrence in drinking water. These compounds are not regulated, and therefore, have no additional reporting and/or treatment requirements. Whitefish Bay was selected to do the same from the summer of 2014 to 2015.
 
 Substance | MCLG | MCL | Level Found | Status | Sources of Contamination
-----------|------|-----|------------------|--------|-------------------------
+----------|:----:|:---:|:-----------:|:------:|-------------------------
 Chlorate (2015) | NA | NA | x ug/L | <i class="fa fa-smile-o" aria-hidden="true"></i> | Agricultural defoliant or desiccant; disinfection byproduct; used in chlorine dioxide production
 Chromium-Total (2015) | NA | 100 mg/L | x ug/L | <i class="fa fa-smile-o" aria-hidden="true"></i> | Sum of chromium in all valence states See chromium-6 for more information.
 Chromium-6 (2015) | NA | NA | x ug/L | <i class="fa fa-smile-o" aria-hidden="true"></i> | Naturally-occuring element; used in making steel and other alloys; chromium-3 and -6 forms are used for chrome plating, dyes and pigments, leather tanning, and wood preservation
@@ -225,11 +246,7 @@ Vanadium (2015) | NA | NA | x ug/L | <i class="fa fa-smile-o" aria-hidden="true"
 The following is a complete list of compounds that were tested under this regulation:  
 > <sub>1,2,3-trichloropropane, 1,1-dichloroethane, 1,3-butadiene, 1,4-dioxane, bromochloromethane (Halon 1011), bromomethane, chlorate, chlorodifluoromethane (HCFC-22), chloromethane, chromium, chromium-6, cobalt, molybdenum, perfluorobutanesulfonic acid (PFBS), perfluoroctanoic acid (PFOA), perfluoroheptanoic acid (PFHpA), perfluorohexanesulfonic acid (PFHxS), perfluorononanoic acid (PFNA), perfluorooctanesulfonic acid (PFOS), strontium, vanadium</sub>
 
-<!-- * * *
-
-### Footnotes    
-
-///Footnotes Go Here/// -->
+* * *
 
 [^1]: No more than 5.0% samples total coliform-positive (TC-positive) in a month. (For water systems that collect fewer than 40 routine samples per month, no more than one sample can be total coliform-positive per month.) Every sample that has total coliform must be analyzed for either fecal coliforms or E. coli if two consecutive TC-positive samples, and one is also positive for E.coli fecal coliforms, system has an acute MCL violaton.
 
@@ -242,15 +259,21 @@ The following is a complete list of compounds that were tested under this regula
 
 ## Cryptosporidium Monitoring
 
-Cryptosporidium is being monitored in the raw water in compliance with the Long Term 2 Enhanced Surface Water Treatment Rule. In 2016, no cryptosporidium was detected.
+Cryptosporidium is being monitored in the raw water in compliance with the Long Term 2 Enhanced Surface Water Treatment Rule. In 2016, no cryptosporidium was detected.  
+
+* * *
 
 ## Turbidity Monitoring
 
-In accordance with s. NR 810.29, Wisconsin Administrative Code, the treated surface water is monitored for turbidity to confirm that the filtered water is less than 0.30 NTU. Turbidity is a measure of the cloudiness of water. We monitor for it because it is a good indicator of the effectiveness of our filtration system. During the year, the highest single entry point turbidity measurement was 0.09 NTU. The lowest monthly percentage of samples meeting the turbidity limits was 100 percent.
+In accordance with s. NR 810.29, Wisconsin Administrative Code, the treated surface water is monitored for turbidity to confirm that the filtered water is less than 0.30 NTU. Turbidity is a measure of the cloudiness of water. We monitor for it because it is a good indicator of the effectiveness of our filtration system. During the year, the highest single entry point turbidity measurement was xxxx NTU. The lowest monthly percentage of samples meeting the turbidity limits was 100 percent.  
+
+* * *
 
 ## Source Water Assessment
 
-The North Shore Water Commission purifies water from Lake Michigan. The latest evaluation by the Wisconsin Department of Natural Resources (WDNR) indicates our source water quality is susceptible to pollution and contaminants. Preserving the water quality of Lake Michigan is essential to maintaining your drinking water quality. For more information on the impacts to your source of drinking water, see the Source Water Assessment for North Shore Water Commission at [http://northshorewater.org/images/materials/SWA-2002.pdf](http://northshorewater.org/images/materials/SWA-2002.pdf).
+The North Shore Water Commission purifies water from Lake Michigan. The latest evaluation by the Wisconsin Department of Natural Resources (WDNR) indicates our source water quality is susceptible to pollution and contaminants. Preserving the water quality of Lake Michigan is essential to maintaining your drinking water quality. For more information on the impacts to your source of drinking water, see the Source Water Assessment for North Shore Water Commission at [http://northshorewater.org/images/materials/SWA-2002.pdf](http://northshorewater.org/images/materials/SWA-2002.pdf).  
+
+* * *
 
 ## Education Information
 
@@ -266,7 +289,9 @@ The sources of drinking water, both tap water and bottled water, include rivers,
 
 **Radioactive contaminants**, which can be naturally occurring or be the result of oil and gas production and mining activities.  
 
-In order to ensure that tap water is safe to drink, EPA prescribes regulations that limit the amount of certain contaminants in water provided by public water systems. Food and Drug Administration regulations establish limits for contaminants in bottled water, which should provide the same protection for public health.
+In order to ensure that tap water is safe to drink, EPA prescribes regulations that limit the amount of certain contaminants in water provided by public water systems. Food and Drug Administration regulations establish limits for contaminants in bottled water, which should provide the same protection for public health.  
+
+* * *
 
 ## Health Information  
 
@@ -274,7 +299,9 @@ Drinking water, including bottled water, may reasonably be expected to contain a
 
 ### Lead Information
 
-If present, elevated levels of lead can cause serious health problems, especially for pregnant women and young children. Lead in drinking water is primarily from materials and components associated with service lines and home plumbing. North Shore Water Commission is responsible for providing high quality drinking water, but cannot control the variety of materials used in plumbing components. When your water has been sitting for several hours, you can minimize the potential for lead exposure by flushing your tap for 3 minutes before using water for drinking or cooking. If you are concerned about lead in your water, you may wish to have your water tested. Information on lead in drinking water, testing methods, and steps you can take to minimize exposure is available from the Safe Drinking Water Hotline or at [www.epa.gov/safewater/lead](www.epa.gov/safewater/lead).
+If present, elevated levels of lead can cause serious health problems, especially for pregnant women and young children. Lead in drinking water is primarily from materials and components associated with service lines and home plumbing. North Shore Water Commission is responsible for providing high quality drinking water, but cannot control the variety of materials used in plumbing components. When your water has been sitting for several hours, you can minimize the potential for lead exposure by flushing your tap for 3 minutes before using water for drinking or cooking. If you are concerned about lead in your water, you may wish to have your water tested. Information on lead in drinking water, testing methods, and steps you can take to minimize exposure is available from the Safe Drinking Water Hotline or at [www.epa.gov/safewater/lead](www.epa.gov/safewater/lead).  
+
+* * *
 
 ## Treatment Process
 
@@ -296,9 +323,7 @@ The high service pumps deliver potable water to its members through metering pit
 
 [Click here for PDF version of diagram.](img/Treatment-Process.pdf)
 
-## Staff
-
-Eric Kiefer has been the Plant Manager since 2007. He received a Bachelor of Science degree with a major in chemistry from the University of Wisconsin Oshkosh as well as a Master of Business Administration degree from Marquette University. All full-time staff that participate in operations, including Mr. Kiefer, have a WDNR Municipal Waterworks Operator Certification.
+* * *
 
 ## Officials
 
@@ -326,13 +351,13 @@ Office | Office Holder | Email | Phone
 Chairman | John Edlebeck | [j.edlebeck@wfbvillage.org](mailto:j.edlebeck@wfbvillage.org) | (414) 962-6690
 Alternate | Paul Boening | [p.boening@wfbvillage.org](mailto:p.boening@wfbvillage.org) | (414) 962-6690 
 
+* * *
 
-### NSWC Staff  
+## Staff
 
-Office | Office Holder | Email | Phone
--------|---------------|-------|------
-Plant Manager | Eric Kiefer | Commission | [ekiefer@northshorewc.com](mailto:ekiefer@northshorewc.com) | (414) 963-0160
+Eric Kiefer has been the Plant Manager since 2007. He received a Bachelor of Science degree with a major in chemistry from the University of Wisconsin Oshkosh as well as a Master of Business Administration degree from Marquette University. All full-time staff that participate in operations, including Mr. Kiefer, have a WDNR Municipal Waterworks Operator Certification. If you have a question regarding your water quality, please contact Mr. Kiefer at [ekiefer@northshorewc.com](mailto:ekiefer@northshorewc.com) or (414) 963-0160.  
 
+* * *
 
 ## Associations  
 
