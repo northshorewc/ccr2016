@@ -84,7 +84,6 @@ Term | Abbreviation | Definition
 Action Level | AL |  The concentration of a contaminant which, if exceeded, triggers treatment or other requirements which a water system must follow.  
 Disinfection By-products | DBPs | These are compounds that are formed when using a disinfectant.  
 Haloacetic Acids | HAA5 | Monochloroacetic acid, dichloroacetic acid, trichloroacetic acid, monobromoacetic acid, and dibromoacetic acid. This is a class of disinfection by-products.
-Less Than | < | Math symbol meaning "less than."
 Locational Running Annual Average | LRAA | The average of four quarterly samples collected in one 12-month period at a specific sampling site. 
 Maximum Contaminant Level | MCL |  This is the highest level of a contaminant that is allowed in drinking water. MCLs are set as close to the MCLGs as feasible using the best available treatment technology.    
 Maximum Contaminant Level Goal | MCLG |  This is the level of a contaminant in drinking water below which there is no known or expected risk to health. MCLGs allow for a margin of safety.    
@@ -273,7 +272,7 @@ The following is a complete list of compounds that were tested under this regula
 
 [^2]: WDNR determines when compliance monitoring is to occur. Last compliance monitoring event was during the summer of 2015. Please note that copper does not have a maximum contaminant level. Instead it has an action level. To determine compliance with regulation, all results collected from monitoring event are ranked highest to lowest. The 90th percentile value of that set must at or below the 1.3 ug/L. The "level found" is the 90th percentile value from the latest monitoring event (2015). Ten percent (10%) of the samples were above this value and ninety percent (90%) of the samples were below this value.
 
-[^3]: Level found is the average for the year.
+[^3]: Level found reported in this section is the average of all results for the calendar year. 
 
 [^4]: WDNR determines when compliance monitoring is to occur. Last compliance monitoring event was during the summer of 2015. Please note that lead does not have a maximum contaminant level. Instead it has an action level. To determine compliance with regulation, all results collected from monitoring event are ranked highest to lowest. The 90th percentile value of that set must at or below the 15 ug/L. The "level found" is the 90th percentile value from the latest monitoring event (2015). Ten percent (10%) of the samples were above this value and ninety percent (90%) of the samples were below this value.
 
@@ -299,15 +298,15 @@ The North Shore Water Commission purifies water from Lake Michigan. The latest e
 
 The sources of drinking water, both tap water and bottled water, include rivers, lakes, streams, ponds, reservoirs, springs and wells. As water travels over the surface of the land or through the ground, it dissolves naturally occurring minerals and, in some cases, radioactive material, and can pick up substances resulting from the presence of animals or from human activity. Contaminants that may be present in source water include the following.
 
-**Microbial contaminants**, such as viruses and bacteria, which may come from sewage treatment plants, septic systems, agricultural livestock operations and wildlife.  
+> **Microbial contaminants**, such as viruses and bacteria, which may come from sewage treatment plants, septic systems, agricultural livestock operations and wildlife.  
 
-**Inorganic contaminants**, such as salts and metals, which can be naturally-occurring or result from urban stormwater runoff, industrial or domestic wastewater discharges, oil and gas production, mining or farming. 
+> **Inorganic contaminants**, such as salts and metals, which can be naturally-occurring or result from urban stormwater runoff, industrial or domestic wastewater discharges, oil and gas production, mining or farming. 
 
-**Pesticides and herbicides**, which may come from a variety of sources such as agriculture, urban stormwater runoff and residential uses.  
+> **Pesticides and herbicides**, which may come from a variety of sources such as agriculture, urban stormwater runoff and residential uses.  
 
-**Organic chemical contaminants**, including synthetic and volatile organic chemicals, which are by-products of industrial processes and petroleum production, and can also come from gas stations, urban stormwater runoff and septic systems.
+> **Organic chemical contaminants**, including synthetic and volatile organic chemicals, which are by-products of industrial processes and petroleum production, and can also come from gas stations, urban stormwater runoff and septic systems.
 
-**Radioactive contaminants**, which can be naturally occurring or be the result of oil and gas production and mining activities.  
+> **Radioactive contaminants**, which can be naturally occurring or be the result of oil and gas production and mining activities.  
 
 In order to ensure that tap water is safe to drink, EPA prescribes regulations that limit the amount of certain contaminants in water provided by public water systems. Food and Drug Administration regulations establish limits for contaminants in bottled water, which should provide the same protection for public health.  
 
