@@ -84,6 +84,7 @@ Term | Abbreviation | Definition
 Action Level | AL |  The concentration of a contaminant which, if exceeded, triggers treatment or other requirements which a water system must follow.  
 Disinfection By-products | DBPs | These are compounds that are formed when using a disinfectant.  
 Haloacetic Acids | HAA5 | Monochloroacetic acid, dichloroacetic acid, trichloroacetic acid, monobromoacetic acid, and dibromoacetic acid. This is a class of disinfection by-products.
+Less Than | < | Math symbol meaning "less than."
 Locational Running Annual Average | LRAA | The average of four quarterly samples collected in one 12-month period at a specific sampling site. 
 Maximum Contaminant Level | MCL |  This is the highest level of a contaminant that is allowed in drinking water. MCLs are set as close to the MCLGs as feasible using the best available treatment technology.    
 Maximum Contaminant Level Goal | MCLG |  This is the level of a contaminant in drinking water below which there is no known or expected risk to health. MCLGs allow for a margin of safety.    
@@ -104,13 +105,13 @@ Turbidity | | Turbidiy has no health effects. However, turbidity can interfere w
 
 Cryptosporidium is a microscopic protozoan that when ingested, can result in diarrhea, fever, and other gastrointestinal symptoms. The organism is found in many surface water sources (lakes, rivers, streams) and comes from human and animal wastes in the watershed. The NSWC uses an effective treatment process that is designed to remove and inactivate this pathogen. 
 
-Cryptosporidium is being monitored in the raw water in compliance with the Long Term 2 Enhanced Surface Water Treatment Rule. In 2016, **no** cryptosporidium was detected.
+Cryptosporidium is being monitored in the raw water in compliance with the Long Term 2 Enhanced Surface Water Treatment Rule. In 2016, **no cryptosporidium was detected**.
 
 * * * 
 
 ## Turbidity   
 
-In accordance with s. NR 810.29, Wisconsin Administrative Code, the treated surface water is monitored for turbidity to confirm that the filtered water is less than 0.30 NTU. Turbidity is a measure of the cloudiness of water. We monitor for it because it is a good indicator of the effectiveness of our filtration system. During the year, the highest single entry point turbidity measurement was xxxx NTU. The lowest monthly percentage of samples meeting the turbidity limits was 100 percent.  
+In accordance with s. NR 810.29, Wisconsin Administrative Code, the treated surface water is monitored for turbidity to confirm that the filtered water is less than 0.30 NTU. Turbidity is a measure of the cloudiness of water. We monitor for it because it is a good indicator of the effectiveness of our filtration system. During the year, the highest single entry point turbidity measurement was 0.15 NTU. The lowest monthly percentage of samples meeting the turbidity limits was 100 percent.  
 
 * * *
 
@@ -123,7 +124,7 @@ Please note that the meaning of "level found" will vary depending on how many sa
 
 * * *
 
-**Monitoring Results Pertaining to the North Shore Water Commission**
+### Monitoring Results Pertaining to the North Shore Water Commission
 
 The NSWC and its member utilities work together to ensure the water it delivers meets or exceeds all standards set forth by its regulatory agencies. The following sections show the contaminants that were detected by the NSWC in its monitoring.
 
@@ -140,30 +141,31 @@ Substance | MCLG | MCL | Level Found | Status | Sources of Contamination
 
 Substance | MCLG | MCL | Level Found | Status | Sources of Contamination
 ----------|:----:|:---:|:-----------:|:------:|-------------------------
-Antimony | 6 ug/L | 6 ug/L | x ug/L |  <i class="fa fa-smile-o" aria-hidden="true"></i> | Discharge from petroleum refineries; fire retardants; ceramics; electronics; solder
-Arsenic | NA | 10 ug/L | x ug/L |  <i class="fa fa-smile-o" aria-hidden="true"></i> | Erosion of natural deposits; runoff from orchards; runoff from glass and electronics productions wastes  
-Barium | 2 mg/L | 2 mg/L | x mg/L |  <i class="fa fa-smile-o" aria-hidden="true"></i> | Discharge of drilling wasts; discharge from metal refineries; erosion of natural deposits
-Chromium | 100 ug/L | 100 ug/L | x ug/L |  <i class="fa fa-smile-o" aria-hidden="true"></i> | Discharge from steel and pulp mills; erosion of natural deposits
-[^2] Copper (2015) | 1.3 mg/L | AL=1.3 mg/L | 0.048 mg/L (0.0034 mg/L to 0.110 mg/L) | <i class="fa fa-smile-o" aria-hidden="true"></i> | Corrosion of household plumbing systems; erosion of natural deposits; leach from wood preservatives
-Cyanide | 200 ug/L | 200 ug/L | x ug/L | <i class="fa fa-smile-o" aria-hidden="true"></i> | Discharge from steel/metal factories; discharge from plastic and fertilizer factories
-Fluoride | 4 mg/L | 4 mg/L | x mg/L | <i class="fa fa-smile-o" aria-hidden="true"></i> | Erosion of natural deposits; Water additive which promotes strong teeth; discharge from fertilizer and aluminum factories
-[^3] Lead (2015) | 0 | AL=15 ug/L | 9.1 ug/L (ND to 15 ug/L) | <i class="fa fa-smile-o" aria-hidden="true"></i> | Corrosion of household plumbing systems; erosion of natural deposits.
-Nickel | NA | 100 ug/L | x ug/L | <i class="fa fa-smile-o" aria-hidden="true"></i> | Nickel occurs naturally in soils, groundwater and surface waters and is often used in electroplating, stainless steel and alloy products
-Nitrate (NO3-N) | 10 mg/L | 10 mg/L | x mg/L | <i class="fa fa-smile-o" aria-hidden="true"></i> | Runoff from fertilizer use; Leaching from septic tanks, sewage; erosion of natural deposits
-Sodium | NA | NA | x mg/L | <i class="fa fa-smile-o" aria-hidden="true"></i> | NA 
+Antimony | 6 ug/L | 6 ug/L | 0.18 ug/L |  <i class="fa fa-smile-o" aria-hidden="true"></i> | Discharge from petroleum refineries; fire retardants; ceramics; electronics; solder
+Barium | 2 mg/L | 2 mg/L | 0.019 mg/L |  <i class="fa fa-smile-o" aria-hidden="true"></i> | Discharge of drilling wasts; discharge from metal refineries; erosion of natural deposits
+[^2] Copper (2015) | 1.3 mg/L | AL=1.3 mg/L | 0.048 mg/L </br> <sub>(0.0034 mg/L to 0.110 mg/L)</sub> | <i class="fa fa-smile-o" aria-hidden="true"></i> | Corrosion of household plumbing systems; erosion of natural deposits; leach from wood preservatives
+Cyanide (2014) | 200 ug/L | 200 ug/L | 10 ug/L | <i class="fa fa-smile-o" aria-hidden="true"></i> | Discharge from steel/metal factories; discharge from plastic and fertilizer factories
+[^3] Fluoride | 4 mg/L | 4 mg/L | 0.80 mg/L </br> (0.71 - 0.93) | <i class="fa fa-smile-o" aria-hidden="true"></i> | Erosion of natural deposits; Water additive which promotes strong teeth; discharge from fertilizer and aluminum factories
+[^4] Lead (2015) | 0 | AL=15 ug/L | 9.1 ug/L </br> <sub> (ND to 15 ug/L)</sub> | <i class="fa fa-smile-o" aria-hidden="true"></i> | Corrosion of household plumbing systems; erosion of natural deposits.
+Nickel | NA | 100 ug/L | 1.2 ug/L | <i class="fa fa-smile-o" aria-hidden="true"></i> | Nickel occurs naturally in soils, groundwater and surface waters and is often used in electroplating, stainless steel and alloy products
+Nitrate (NO3-N) | 10 mg/L | 10 mg/L | 0.49 mg/L | <i class="fa fa-smile-o" aria-hidden="true"></i> | Runoff from fertilizer use; Leaching from septic tanks, sewage; erosion of natural deposits
+Sodium | NA | NA | 14 mg/L | <i class="fa fa-smile-o" aria-hidden="true"></i> | NA 
 
+<!-- Arsenic | NA | 10 ug/L | ND |  <i class="fa fa-smile-o" aria-hidden="true"></i> | Erosion of natural deposits; runoff from orchards; runoff from glass and electronics productions wastes   -->
 
-*Synthetic Organic Contaminants including Pesticides and Herbicides*
+<!-- Chromium | 100 ug/L | 100 ug/L | ND |  <i class="fa fa-smile-o" aria-hidden="true"></i> | Discharge from steel and pulp mills; erosion of natural deposits -->
+
+<!-- *Synthetic Organic Contaminants including Pesticides and Herbicides*
 
 Substance | MCLG | MCL | Level Found | Status | Sources of Contamination
 ----------|:----:|:---:|:-----------:|:------:|-------------------------
-Hexachlorocyclo- pentadiene | 50 ug/L | 50 ug/L | x ug/L | <i class="fa fa-smile-o" aria-hidden="true"></i> | Discharge from chemical factories 
+Hexachlorocyclo- pentadiene | 50 ug/L | 50 ug/L | ND | <i class="fa fa-smile-o" aria-hidden="true"></i> | Discharge from chemical factories  -->
 
 *Unregulated Contaminants*  
 
 Substance | MCLG | MCL | Level Found | Status | Sources of Contamination
 ----------|:----:|:---:|:-----------:|:------:|-------------------------
-Sulfate | NA | NA | x mg/L | <i class="fa fa-smile-o" aria-hidden="true"></i> | NA
+Sulfate | NA | NA | 28 mg/L | <i class="fa fa-smile-o" aria-hidden="true"></i> | NA
 
 
 **Other Monitoring Results**
@@ -177,7 +179,7 @@ Substance | &nbsp;&nbsp;&nbsp;MCLG&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;MCL &nbsp;&nbs
 HAA5 (9/17/2013) | 60 ug/L | 60 ug/L | 12.7 ug/L </br> (6.5 - 12.7) | <i class="fa fa-smile-o" aria-hidden="true"></i> | By-product of drinking water chlorination 
 TTHM (9/17/2013) | 0 | 80 ug/L | 25.2 ug/L </br>(11.9 - 25.2) |<i class="fa fa-smile-o" aria-hidden="true"></i> | By-product of drinking water chlorination 
 
-[^4] *Unregulated Volatile Organic Carbons* 
+[^5] *Unregulated Volatile Organic Carbons* 
 
 Substance | MCLG |  MCL | Level Found | Status | Sources of Contamination
 ----------|:----:|:---:|:-----------:|:------:|-------------------------
@@ -191,7 +193,7 @@ Dibromochloro- methane (2014) | NA | NA | 3.8 ug/L | <i class="fa fa-smile-o" ar
 
 ![Fox Point Logo](img/fox-point-logo-150.png)
 
-**Monitoring Results Pertaining to the Village of Fox Point**   
+### Monitoring Results Pertaining to the Village of Fox Point  
 
 The following table show the contaminants that were detected by the Village of Fox Point in its monitoring.  
 
@@ -199,30 +201,30 @@ The following table show the contaminants that were detected by the Village of F
 
 Substance | &nbsp;&nbsp;&nbsp;MCLG&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;MCL &nbsp;&nbsp;&nbsp; | Level Found | Status | Sources of Contamination
 ----------|:----:|:---:|:-----------:|:------:|-------------------------
-HAA5  | 60 ug/L | 60 ug/L | x ug/L | <i class="fa fa-smile-o" aria-hidden="true"></i> | By-product of drinking water chlorination
-TTHM  | 0 | 80 ug/L | x ug/L |<i class="fa fa-smile-o" aria-hidden="true"></i> | By-product of drinking water chlorination
+HAA5  | 60 ug/L | 60 ug/L | 16.4 ug/L </br> (16.4 - 16.4) | <i class="fa fa-smile-o" aria-hidden="true"></i> | By-product of drinking water chlorination
+TTHM  | 0 | 80 ug/L | 20.2 ug/L </br> (17.9 - 20.2) |<i class="fa fa-smile-o" aria-hidden="true"></i> | By-product of drinking water chlorination
 
 * * *
 
 ![Glendale Logo](img/glendale-logo-150.png)  
 
-**Monitoring Results Pertaining to the City of Glendale**  
+### Monitoring Results Pertaining to the City of Glendale  
 
 The following table show the contaminants that were detected by the City of Glendale in its monitoring.  
 
 *Disinfection By-Products*   
 
-Substance | &nbsp;&nbsp;&nbsp;MCLG&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;MCL &nbsp;&nbsp;&nbsp; | [^5] Level Found | Status | Sources of Contamination
+Substance | &nbsp;&nbsp;&nbsp;MCLG&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;MCL &nbsp;&nbsp;&nbsp; | [^6] Level Found | Status | Sources of Contamination
 ----------|:----:|:---:|:-----------:|:------:|-------------------------
-HAA5  | 60 ug/L | 60 ug/L | x ug/L | <i class="fa fa-smile-o" aria-hidden="true"></i> | By-product of drinking water chlorination
-TTHM  | 0 | 80 ug/L | x ug/L |<i class="fa fa-smile-o" aria-hidden="true"></i> | By-product of drinking water chlorination
+HAA5  | 60 ug/L | 60 ug/L | 8.8 ug/L </br> (6.2 - 11.4) | <i class="fa fa-smile-o" aria-hidden="true"></i> | By-product of drinking water chlorination
+TTHM  | 0 | 80 ug/L | 15.5 ug/L </br> (9.6 - 20.1) |<i class="fa fa-smile-o" aria-hidden="true"></i> | By-product of drinking water chlorination
 
 
 *Unregulated Contaminant Monitoring Rule 3*
 
 EPA periodically requires water systems to test for unregulated contaminants to better understand their occurrence in drinking water. These compounds are not regulated, and therefore, have no additional reporting and/or treatment requirements. Glendale was selected by EPA to conduct this testing in 2013.
 
-Substance | MCLG | MCL | [^6] Level Found | Status | Sources of Contamination
+Substance | MCLG | MCL | [^7] Level Found | Status | Sources of Contamination
 ----------|:----:|:---:|:-----------:|:------:|-------------------------
 Chlorate (2013) | NA | NA | 123 ug/L (68.0 - 226) | <i class="fa fa-smile-o" aria-hidden="true"></i> | Agricultural defoliant or desiccant; disinfection by-product; used in chlorine dioxide production
 Chromium-Total (2013) | NA | 100 mg/L | 0.37 ug/L (0.24 - 0.46) | <i class="fa fa-smile-o" aria-hidden="true"></i> | Sum of chromium in all valence states See chromium-6 for more information.
@@ -239,21 +241,21 @@ The following is a complete list of compounds that were tested under this regula
 
 ![Whitefish Bay Logo](img/wfb-logo-150-250.png)
 
-**Monitoring Results Pertaining to the Village of Whitefish Bay**  
+### Monitoring Results Pertaining to the Village of Whitefish Bay  
 
 The following table lists the contaminants that were detected by the Village of Whitefish Bay in its monitoring.  
 
-Substance | &nbsp;&nbsp;&nbsp;MCLG&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;MCL &nbsp;&nbsp;&nbsp; | [^7] Level Found | Status | Sources of Contamination
+Substance | &nbsp;&nbsp;&nbsp;MCLG&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;MCL &nbsp;&nbsp;&nbsp; | [^8] Level Found | Status | Sources of Contamination
 ----------|:----:|:---:|:-----------:|:------:|-------------------------
-HAA5  | 60 ug/L | 60 ug/L | x ug/L | <i class="fa fa-smile-o" aria-hidden="true"></i> | By-product of drinking water chlorination
-TTHM  | 0 | 80 ug/L | x ug/L |<i class="fa fa-smile-o" aria-hidden="true"></i> | By-product of drinking water chlorination
+HAA5  | 60 ug/L | 60 ug/L | 9.8 ug/L </br> (4.9 - 13.2) | <i class="fa fa-smile-o" aria-hidden="true"></i> | By-product of drinking water chlorination
+TTHM  | 0 | 80 ug/L | 17.3 ug/L </br> (9.2 - 22.5) |<i class="fa fa-smile-o" aria-hidden="true"></i> | By-product of drinking water chlorination
 
 
 *Unregulated Contaminant Monitoring Rule 3*
 
 EPA periodically requires water systems to test for unregulated contaminants to better understand their occurrence in drinking water. These compounds are not regulated, and therefore, have no additional reporting and/or treatment requirements. Whitefish Bay was selected to do this monitoring from the summer of 2014 to Spring of 2015.
 
-Substance | MCLG | MCL | [^8] Level Found | Status | Sources of Contamination
+Substance | MCLG | MCL | [^9] Level Found | Status | Sources of Contamination
 ----------|:----:|:---:|:-----------:|:------:|-------------------------
 Chlorate (2015) | NA | NA | 84.6 ug/L (81.6 - 86.7) | <i class="fa fa-smile-o" aria-hidden="true"></i> | Agricultural defoliant or desiccant; disinfection by-product; used in chlorine dioxide production
 Chromium-Total (2015) | NA | 100 mg/L | 0.37 ug/L (0.30 - 0.46) | <i class="fa fa-smile-o" aria-hidden="true"></i> | Sum of chromium in all valence states See chromium-6 for more information.
@@ -271,16 +273,18 @@ The following is a complete list of compounds that were tested under this regula
 
 [^2]: WDNR determines when compliance monitoring is to occur. Last compliance monitoring event was during the summer of 2015. Please note that copper does not have a maximum contaminant level. Instead it has an action level. To determine compliance with regulation, all results collected from monitoring event are ranked highest to lowest. The 90th percentile value of that set must at or below the 1.3 ug/L. The "level found" is the 90th percentile value from the latest monitoring event (2015). Ten percent (10%) of the samples were above this value and ninety percent (90%) of the samples were below this value.
 
-[^3]: WDNR determines when compliance monitoring is to occur. Last compliance monitoring event was during the summer of 2015. Please note that lead does not have a maximum contaminant level. Instead it has an action level. To determine compliance with regulation, all results collected from monitoring event are ranked highest to lowest. The 90th percentile value of that set must at or below the 15 ug/L. The "level found" is the 90th percentile value from the latest monitoring event (2015). Ten percent (10%) of the samples were above this value and ninety percent (90%) of the samples were below this value.
+[^3]: Level found is the average for the year.
 
-[^4]: The sum of these compounds is equal to TTHM. Individually, these compounds are not regulated.  
+[^4]: WDNR determines when compliance monitoring is to occur. Last compliance monitoring event was during the summer of 2015. Please note that lead does not have a maximum contaminant level. Instead it has an action level. To determine compliance with regulation, all results collected from monitoring event are ranked highest to lowest. The 90th percentile value of that set must at or below the 15 ug/L. The "level found" is the 90th percentile value from the latest monitoring event (2015). Ten percent (10%) of the samples were above this value and ninety percent (90%) of the samples were below this value.
 
-[^5]: Level found reported in this section is the LRAA. This value can include data from a previous year and can be higher than the maximum value found during the year. 
+[^5]: The sum of these compounds is equal to TTHM. Individually, these compounds are not regulated.  
 
-[^6]: Level found reported in this section is the average of all results for the calendar year.  
+[^6]: Level found reported in this section is the LRAA. This value can include data from a previous year and can be higher than the maximum value found during the year. 
 
-[^7]: Level found reported in this section is the LRAA. This value can include data from a previous year and can be higher than the maximum value found during the year.  
-[^8]: Level found reported in this section is the average of all results for the calendar year.  
+[^7]: Level found reported in this section is the average of all results for the calendar year.  
+
+[^8]: Level found reported in this section is the LRAA. This value can include data from a previous year and can be higher than the maximum value found during the year.  
+[^9]: Level found reported in this section is the average of all results for the calendar year.  
   
 
 * * *
