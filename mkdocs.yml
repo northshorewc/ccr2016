@@ -5,10 +5,14 @@ site_author: Eric Kiefer
 site_name: 2016 Annual Water Quality Report
 theme: readthedocs
 theme_dir: readthedocs-theme
+extra_css:
+  - css/extra.css
 extra_javascript: 
   # - https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML
   - https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_CHTML-full
   - https://use.fontawesome.com/ccef82ad40.js
+  - js/extra.js
+  - https://cdnjs.cloudflare.com/ajax/libs/jquery.sticky/1.0.4/jquery.sticky.js
 markdown_extensions:
   - admonition:
   - def_list:

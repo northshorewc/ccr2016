@@ -21,11 +21,11 @@ Structures built before 1951 may have lead service lines. The service line conne
     
 Lead pipes are dull gray in color and are soft enough to be easily scratched with a house key, and a magnet will not stick to a lead pipe. The amount of lead that dissolves into the water will vary based on the plumbing in the building, how much water is used, and how often it is used.  
 
-Your water utility may know if you have a lead service. [Please contact them for more information.](index.md#water-utilities)  
+Your water utility may know if you have a lead service, or can help you determine if you have a lead service. [Please contact them for more information.](index.md#water-utilities)  
 
 ## Do this if you have a lead service line   
 
-Flush your plumbing. Before using tap water for drinking or cooking, run the cold water until it is noticeably colder. Do this if the water has been standing unused in your pipes for more than six hours, such as overnight. Tap water can safely be used for activities such as bathing, washing hands, washing dishes, laundry, etc. These activities help flush the pipes.
+Flush your plumbing. Before using tap water for drinking or cooking, run the cold water until it is noticeably colder (which in most cases will occur in approximately 3 minutes). Do this if the water has been standing unused in your pipes for more than six hours, such as overnight. Tap water can safely be used for activities such as bathing, washing hands, washing dishes, laundry, etc. These activities help flush the pipes.
 
 Drink and cook only with water from the cold water tap. Never drink or cook with water from the hot water tap. Hot water dissolves lead from pipes. Boiling the water does not remove lead. Households with children under the age of six, women who may become pregnant or are pregnant or are breastfeeding, should consider using bottled water or filtered tap water for formula, concentrated juices, cooking and drinking.  
 
