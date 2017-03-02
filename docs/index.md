@@ -18,7 +18,7 @@ The North Shore Water Commission, in cooperation with its member utilities, publ
 
 ## North Shore Water Commission
 
-The North Shore Water Commission (NSWC) operates and maintains the Water Filtration Plant at 400 West Bender Road in Glendale as well as the Raw Water Pumping Station located in Whitefish Bay. The NSWC is responsible for purifying and pumping potable water to its member utilities which include Fox Point, Glendale, and Whitefish Bay. Via a wholesale water agreement, water is also provided to some areas served by Mequon Water Utility. If you want to know more about water quality or this report, please contact the Plant Manager at (414) 963-0160 or at [info@northshorewc.com](mailto:info@northshorewc.com).
+The North Shore Water Commission (NSWC) operates and maintains the Water Filtration Plant at 400 West Bender Road in Glendale as well as the Raw Water Pumping Station located in Whitefish Bay. The NSWC is responsible for purifying and pumping potable water to its member utilities which include Fox Point, Glendale, and Whitefish Bay. Via a wholesale water agreement, water is also provided to some areas served by Mequon Water Utility. If you want to know more about water quality or this report, please contact the Plant Manager at (414) 963-0160 or at [ekiefer@northshorewc.com](mailto:ekiefer@northshorewc.com).
 
 * * *
 
@@ -32,28 +32,6 @@ Your water utility is responsible for connecting customers to the water system, 
 (414) 351-8900 | (414) 228-1719 | (414) 962-6690
 
 * * *
-
-<!-- ![Fox Point Logo](img/fox-point-logo-150.png)      
-
-[Fox Point Water Utility](http://www.villageoffoxpoint.com/)  
-(414) 351-8900  
-
-* * *
-
-![Glendale Logo](img/glendale-logo-150.png)  
-
-
-[Glendale Water Utility](http://www.glendale-wi.org/)  
-(414) 228-1719   
-
-* * *
-
-![Whitefish Bay Logo](img/wfb-logo-150.png)  
-
-[Whitefish Bay Water Utility](http://www.wfbvillage.org/)  
-(414) 962-6690  
-
-* * * -->
 
 ## Governance
 
@@ -82,27 +60,25 @@ For additional information about water quality on the internet, please visit WDN
 Term | Abbreviation | Definition
 -----|--------------|-----------
 Action Level | AL |  The concentration of a contaminant which, if exceeded, triggers treatment or other requirements which a water system must follow.  
-Disinfection By-products | DBPs | These are compounds that are formed when using a disinfectant.  
+Disinfection By-products | DBPs | These are compounds that are formed when using a disinfectant.
 Haloacetic Acids | HAA5 | Monochloroacetic acid, dichloroacetic acid, trichloroacetic acid, monobromoacetic acid, and dibromoacetic acid. This is a class of disinfection by-products.
-Locational Running Annual Average | LRAA | The average of four quarterly samples collected in one 12-month period at a specific sampling site. 
-Maximum Contaminant Level | MCL |  This is the highest level of a contaminant that is allowed in drinking water. MCLs are set as close to the MCLGs as feasible using the best available treatment technology.    
-Maximum Contaminant Level Goal | MCLG |  This is the level of a contaminant in drinking water below which there is no known or expected risk to health. MCLGs allow for a margin of safety.    
-Milligrams Per Liter | mg/L | One milligram per liter corresponds to one minute in two years or a single penny in $10,000. Milligrams per liter is equivalent to the term parts per million (ppm).  
-Micrograms Per Liter | ug/l |  One part per billion corresponds to one minute in 2,000 years, or a single penny in $10,000,000. Micrograms per liter is equivalent to the term parts per billion (ppb).     
-Nephelometric Turbidity Unit | NTU |  Nephelometric turbidity unit is a measure of the clarity of water. Turbidity in excess of 5 NTU is just noticeable to the average person.   
-Not Applicable | NA | Not applicable.  
-Not Detected | ND |  Laboratory analysis indicates that the constituent is not present.    
-Running Annual Average | RAA | The average of four quarterly samples collected in one 12-month period.  
-Total Coliform Rule | TCR |  This is the regulation that pertains to disinfectant and bacteriological monitoring.        
-Treatment Technique | TT |  A treatment technique is a required process intended to reduce the level of a contaminant in drinking water.  
-Trihalomethanes | TTHM | Chloroform, bromodichloromethane, dibromochloromethan, and bromoform. This is a class of disinfection by-products.  
-Turbidity | | Turbidiy has no health effects. However, turbidity can interfere with disinfection and provide a medium for microbial growth. Turbidity may indicate the presence of disease-causing organisms.  
+Locational Running Annual Average | LRAA | The average of four quarterly samples collected in one 12-month period at a specific sampling site.
+Maximum Contaminant Level | MCL |  This is the highest level of a contaminant that is allowed in drinking water. MCLs are set as close to the MCLGs as feasible using the best available treatment technology.
+Maximum Contaminant Level Goal | MCLG |  This is the level of a contaminant in drinking water below which there is no known or expected risk to health. MCLGs allow for a margin of safety.
+Milligrams Per Liter | mg/L | One milligram per liter corresponds to one minute in two years or a single penny in $10,000. Milligrams per liter is equivalent to the term parts per million (ppm).
+Micrograms Per Liter | ug/l |  One part per billion corresponds to one minute in 2,000 years, or a single penny in $10,000,000. Micrograms per liter is equivalent to the term parts per billion (ppb).
+Nephelometric Turbidity Unit | NTU |  Nephelometric turbidity unit is a measure of the clarity of water. Turbidity in excess of 5 NTU is just noticeable to the average person.
+| NSWC | North Shore Water Commission
+Not Applicable | NA | Not applicable.
+Not Detected | ND |  Laboratory analysis indicates that the constituent is not present. In other words, the analyte was below the detection limit.
+Trihalomethanes | TTHM | Chloroform, bromodichloromethane, dibromochloromethan, and bromoform. This is a class of disinfection by-products.
+| WDNR | Wisconsin Department of Natural Resources
 
 * * *
 
 ## Cryptosporidium Monitoring 
 
-Cryptosporidium is a microscopic protozoan that when ingested, can result in diarrhea, fever, and other gastrointestinal symptoms. The organism is found in many surface water sources (lakes, rivers, streams) and comes from human and animal wastes in the watershed. The NSWC uses an effective treatment process that is designed to remove and inactivate this pathogen. 
+Cryptosporidium is a microscopic protozoan that, when ingested, can result in diarrhea, fever, and other gastrointestinal symptoms. The organism is found in many surface water sources (lakes, rivers, streams) and comes from human and animal wastes in the watershed. The NSWC uses an effective treatment process that is designed to remove and inactivate this pathogen. 
 
 Cryptosporidium is being monitored in the raw water in compliance with the Long Term 2 Enhanced Surface Water Treatment Rule. In 2016, **no cryptosporidium was detected**.
 
@@ -116,49 +92,51 @@ In accordance with s. NR 810.29, Wisconsin Administrative Code, the treated surf
 
 ## Regulatory Compliance
 
-We are proud to report that our system has not violated a maximum contaminant level or any other water quality standard. The following tables lists the contaminants that were detected. This report may contain up to five years worth of water quality results. If tested annually, or more frequently, the results from the most recent year are shown on this report. If testing is done less frequently, the results are shown from the most recent testing event.  Please note that we did not test for radon during 2016 because we were not required to.
+We are proud to report that our system has not violated a maximum contaminant level or any other water quality standard. The following tables lists the contaminants that were detected. This report may contain up to five years worth of water quality results. If tested annually, or more frequently, the results from the most recent year are shown on this report. If testing is done less frequently, the results are shown from the most recent testing event. The NSWC and its member water utilities are allowed to test for some contaminants less frequently than once per year.
 
-Please note that the meaning of "level found" will vary depending on how many samples were collected in a year and the particular regulation it pertains to. If a contaminant was tested once in a year, a single value will be reported as "level found." If contaminant was tested more than one time during the year, the minimum and maximum values (range) will be reported below the level found in parentheses. In most cases, "level found" will be the maximum level detected.  
+Please note that the term "level found" is used throughout this report. The meaning of "level found" will vary depending on how many samples were collected in a year and the particular regulation it pertains to. If a contaminant was tested once in a year, a single value will be reported as "level found." If contaminant was tested more than one time during the year, the minimum and maximum values (range) will be reported below the level found in parentheses. 
 
 
 * * *
 
 ### Monitoring Results Pertaining to the North Shore Water Commission
 
-The NSWC and its member utilities work together to ensure the water it delivers meets or exceeds all standards set forth by its regulatory agencies. The following sections show the contaminants that were detected by the NSWC in its monitoring.
+The NSWC and its member utilities work together to ensure the water it delivers meets or exceeds all standards set forth by its regulatory agencies. The following sections show the contaminants that were detected by the NSWC in its monitoring.  Please note that we did not test for radon during 2016 because we were not required to. 
 
 
-*Microbiological*  
+<!-- *Microbiological*  
 
 
 Substance | MCLG | MCL | Level Found | Status | Sources of Contamination
 ----------|:----:|:---:|:-----------:|:------:|-------------------------
-[^1] Coliform (TCR) | 0% positive samples | 5% of monthly samples | 0% |  <i class="fa fa-smile-o" aria-hidden="true"></i> | Naturally present in the environment  
+[^1] Coliform (TCR) | 0% positive samples | 5% of monthly samples | 0% |  <i class="fa fa-smile-o" aria-hidden="true"></i> | Naturally present in the environment   -->
 
 
 *Inorganic*   
 
-Substance | MCLG | MCL | Level Found | Status | Sources of Contamination
-----------|:----:|:---:|:-----------:|:------:|-------------------------
+Substance | &nbsp;&nbsp;&nbsp;&nbsp;MCLG&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;&nbsp;MCL &nbsp;&nbsp;&nbsp;&nbsp; | Level Found | Status | Sources of Contamination
+----------|:---------------------------------:|:----------------------------------------:|:-----------:|:------:|-------------------------
 Antimony | 6 ug/L | 6 ug/L | 0.18 ug/L |  <i class="fa fa-smile-o" aria-hidden="true"></i> | Discharge from petroleum refineries; fire retardants; ceramics; electronics; solder
 Barium | 2 mg/L | 2 mg/L | 0.019 mg/L |  <i class="fa fa-smile-o" aria-hidden="true"></i> | Discharge of drilling wasts; discharge from metal refineries; erosion of natural deposits
-[^2] Copper (2015) | 1.3 mg/L | AL=1.3 mg/L | 0.048 mg/L </br> <sub>(0.0034 mg/L to 0.110 mg/L)</sub> | <i class="fa fa-smile-o" aria-hidden="true"></i> | Corrosion of household plumbing systems; erosion of natural deposits; leach from wood preservatives
-Cyanide (2014) | 200 ug/L | 200 ug/L | 10 ug/L | <i class="fa fa-smile-o" aria-hidden="true"></i> | Discharge from steel/metal factories; discharge from plastic and fertilizer factories
-[^3] Fluoride | 4 mg/L | 4 mg/L | 0.80 mg/L </br> (0.71 - 0.93) | <i class="fa fa-smile-o" aria-hidden="true"></i> | Erosion of natural deposits; Water additive which promotes strong teeth; discharge from fertilizer and aluminum factories
-[^4] Lead (2015) | 0 | AL=15 ug/L | 9.1 ug/L </br> <sub> (ND to 15 ug/L)</sub> | <i class="fa fa-smile-o" aria-hidden="true"></i> | Corrosion of household plumbing systems; erosion of natural deposits.
+Cyanide (4/21/2014) | 200 ug/L | 200 ug/L | 10 ug/L | <i class="fa fa-smile-o" aria-hidden="true"></i> | Discharge from steel/metal factories; discharge from plastic and fertilizer factories
+[^1] Fluoride | 4 mg/L | 4 mg/L | 0.80 mg/L </br> (0.71 - 0.93) | <i class="fa fa-smile-o" aria-hidden="true"></i> | Erosion of natural deposits; Water additive which promotes strong teeth; discharge from fertilizer and aluminum factories
 Nickel | NA | 100 ug/L | 1.2 ug/L | <i class="fa fa-smile-o" aria-hidden="true"></i> | Nickel occurs naturally in soils, groundwater and surface waters and is often used in electroplating, stainless steel and alloy products
 Nitrate (NO3-N) | 10 mg/L | 10 mg/L | 0.49 mg/L | <i class="fa fa-smile-o" aria-hidden="true"></i> | Runoff from fertilizer use; Leaching from septic tanks, sewage; erosion of natural deposits
 Sodium | NA | NA | 14 mg/L | <i class="fa fa-smile-o" aria-hidden="true"></i> | NA 
 
-<!-- Arsenic | NA | 10 ug/L | ND |  <i class="fa fa-smile-o" aria-hidden="true"></i> | Erosion of natural deposits; runoff from orchards; runoff from glass and electronics productions wastes   -->
 
-<!-- Chromium | 100 ug/L | 100 ug/L | ND |  <i class="fa fa-smile-o" aria-hidden="true"></i> | Discharge from steel and pulp mills; erosion of natural deposits -->
+*Lead and Copper*
 
-<!-- *Synthetic Organic Contaminants including Pesticides and Herbicides*
+The NSWC is responsible for lead and copper monitoring. To comply with this regulation, the NSWC works with its member water utilities and the WDNR to determine where and how samples are collected. The monitoring results listed in this section are from water samples collected in homes that have a lead service or copper plumbing with lead soldered joints in Fox Point, Glendale, and Whitefish Bay.   
 
-Substance | MCLG | MCL | Level Found | Status | Sources of Contamination
+Please note that lead and copper do not have a maximum contaminant level. Instead they have an action level (AL). To determine compliance with the Lead and Copper Rule, all results collected from monitoring event are arranged lowest to highest and the [^2] 90th percentile value is determined. If the 90th percentile value is at or below the AL, no additional action is required.   
+
+Please note that "level found" in this section is the 90th percentile value from the latest monitoring event. Of the 30 samples collected, none of them exceeded the action level.  
+
+Substance | MCLG |  AL | Level Found | Status | Sources of Contamination
 ----------|:----:|:---:|:-----------:|:------:|-------------------------
-Hexachlorocyclo- pentadiene | 50 ug/L | 50 ug/L | ND | <i class="fa fa-smile-o" aria-hidden="true"></i> | Discharge from chemical factories  -->
+Copper (2015) | 1.3 mg/L | 1.3 mg/L | 0.048 mg/L </br> <sub>(0.0034 mg/L to 0.110 mg/L)</sub> | <i class="fa fa-smile-o" aria-hidden="true"></i> | Corrosion of household plumbing systems; erosion of natural deposits; leach from wood preservatives
+Lead (2015) | 0 | 15 ug/L | 9.1 ug/L </br> <sub> (ND to 15 ug/L)</sub> | <i class="fa fa-smile-o" aria-hidden="true"></i> | Corrosion of household plumbing systems; erosion of natural deposits.
 
 *Unregulated Contaminants*  
 
@@ -169,7 +147,7 @@ Sulfate | NA | NA | 28 mg/L | <i class="fa fa-smile-o" aria-hidden="true"></i> |
 
 **Other Monitoring Results**
 
-The following monitoring results for disinfection by-products and unregulated volatile organic carbons were assigned to the NSWC in the past. Due to a change in monitoring responsibilities, these contaminants are now monitored by each member utility.  
+The NSWC was required to monitor for disinfection by-products in the past. Due to a change in monitoring responsibilities, these contaminants are now monitored by each member utility.  
 
 *Disinfection By-Products*   
 
@@ -178,15 +156,14 @@ Substance | &nbsp;&nbsp;&nbsp;MCLG&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;MCL &nbsp;&nbs
 HAA5 (9/17/2013) | 60 ug/L | 60 ug/L | 12.7 ug/L </br> (6.5 - 12.7) | <i class="fa fa-smile-o" aria-hidden="true"></i> | By-product of drinking water chlorination 
 TTHM (9/17/2013) | 0 | 80 ug/L | 25.2 ug/L </br>(11.9 - 25.2) |<i class="fa fa-smile-o" aria-hidden="true"></i> | By-product of drinking water chlorination 
 
-[^5] *Unregulated Volatile Organic Carbons* 
+[^3] *Unregulated Volatile Organic Carbons*
 
-Substance | MCLG |  MCL | Level Found | Status | Sources of Contamination
+Substance | MCLG | MCL | Level Found | Status | Sources of Contamination
 ----------|:----:|:---:|:-----------:|:------:|-------------------------
-Bromodichloro- methane (2014) | NA | NA | 6.2 ug/L | <i class="fa fa-smile-o" aria-hidden="true"></i> | By-product of drinking water chlorination  
-Bromoform (2014) | NA | NA | 0.4 ug/L | <i class="fa fa-smile-o" aria-hidden="true"></i> | By-product of drinking water chlorination  
-Chloroform (2014) | NA | NA | 5.1 ug/L | <i class="fa fa-smile-o" aria-hidden="true"></i> | By-product of drinking water chlorination 
-Dibromochloro- methane (2014) | NA | NA | 3.8 ug/L | <i class="fa fa-smile-o" aria-hidden="true"></i> | By-product of drinking water chlorination 
-
+Bromodichloro- methane (2014) | NA | NA | 6.2 ug/L | <i class="fa fa-smile-o" aria-hidden="true"></i> | By-product of drinking water chlorination
+Bromoform (2014) | NA | NA | 0.4 ug/L | <i class="fa fa-smile-o" aria-hidden="true"></i> | By-product of drinking water chlorination
+Chloroform (2014) | NA | NA | 5.1 ug/L | <i class="fa fa-smile-o" aria-hidden="true"></i> |By-product of drinking water chlorination
+Dibromochloro- methane (2014) | NA | NA | 3.8 ug/L | <i class="fa fa-smile-o" aria-hidden="true"></i> |By-product of drinking water chlorination
 
 * * *
 
@@ -198,10 +175,19 @@ The following table show the contaminants that were detected by the Village of F
 
 *Disinfection By-Products*   
 
+For monitoring location SSS-9:
+
 Substance | &nbsp;&nbsp;&nbsp;MCLG&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;MCL &nbsp;&nbsp;&nbsp; | Level Found | Status | Sources of Contamination
 ----------|:----:|:---:|:-----------:|:------:|-------------------------
-HAA5  | 60 ug/L | 60 ug/L | 16.4 ug/L </br> (16.4 - 16.4) | <i class="fa fa-smile-o" aria-hidden="true"></i> | By-product of drinking water chlorination
-TTHM  | 0 | 80 ug/L | 20.2 ug/L </br> (17.9 - 20.2) |<i class="fa fa-smile-o" aria-hidden="true"></i> | By-product of drinking water chlorination
+HAA5  | 60 ug/L | 60 ug/L | 16.4 ug/L | <i class="fa fa-smile-o" aria-hidden="true"></i> | By-product of drinking water chlorination
+TTHM  | 0 | 80 ug/L | 17.9 ug/L |<i class="fa fa-smile-o" aria-hidden="true"></i> | By-product of drinking water chlorination
+
+For monitoring location SSS-10:
+
+Substance | &nbsp;&nbsp;&nbsp;MCLG&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;MCL &nbsp;&nbsp;&nbsp; | Level Found | Status | Sources of Contamination
+----------|:----:|:---:|:-----------:|:------:|-------------------------
+HAA5  | 60 ug/L | 60 ug/L | 16.4 ug/L | <i class="fa fa-smile-o" aria-hidden="true"></i> | By-product of drinking water chlorination
+TTHM  | 0 | 80 ug/L | 20.2 ug/L |<i class="fa fa-smile-o" aria-hidden="true"></i> | By-product of drinking water chlorination
 
 * * *
 
@@ -211,19 +197,32 @@ TTHM  | 0 | 80 ug/L | 20.2 ug/L </br> (17.9 - 20.2) |<i class="fa fa-smile-o" ar
 
 The following table show the contaminants that were detected by the City of Glendale in its monitoring.  
 
-*Disinfection By-Products*   
+*Disinfection By-Products* 
 
-Substance | &nbsp;&nbsp;&nbsp;MCLG&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;MCL &nbsp;&nbsp;&nbsp; | [^6] Level Found | Status | Sources of Contamination
+Please note that "level found" in this section is the LRAA. This value can include data from a previous year.
+
+For monitoring location SSS-03:
+
+Substance | &nbsp;&nbsp;&nbsp;MCLG&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;MCL &nbsp;&nbsp;&nbsp; | Level Found | Status | Sources of Contamination
 ----------|:----:|:---:|:-----------:|:------:|-------------------------
-HAA5  | 60 ug/L | 60 ug/L | 8.8 ug/L </br> (6.2 - 11.4) | <i class="fa fa-smile-o" aria-hidden="true"></i> | By-product of drinking water chlorination
-TTHM  | 0 | 80 ug/L | 15.5 ug/L </br> (9.6 - 20.1) |<i class="fa fa-smile-o" aria-hidden="true"></i> | By-product of drinking water chlorination
+HAA5  | 60 ug/L | 60 ug/L | 9.8 ug/L </br> (8.4 - 12.0) | <i class="fa fa-smile-o" aria-hidden="true"></i> | By-product of drinking water chlorination
+TTHM  | 0 | 80 ug/L | 14.7 ug/L </br> (9.2 - 17.9) |<i class="fa fa-smile-o" aria-hidden="true"></i> | By-product of drinking water chlorination
+
+For monitoring location SSS-16:
+
+Substance | &nbsp;&nbsp;&nbsp;MCLG&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;MCL &nbsp;&nbsp;&nbsp; | Level Found | Status | Sources of Contamination
+----------|:----:|:---:|:-----------:|:------:|-------------------------
+HAA5  | 60 ug/L | 60 ug/L | 9.4 ug/L </br> (4.9 - 13.2) | <i class="fa fa-smile-o" aria-hidden="true"></i> | By-product of drinking water chlorination
+TTHM  | 0 | 80 ug/L | 17.3 ug/L </br> (9.9 - 22.5) |<i class="fa fa-smile-o" aria-hidden="true"></i> | By-product of drinking water chlorination
 
 
-*Unregulated Contaminant Monitoring Rule 3*
+*Unregulated Contaminant Monitoring Rule*
 
 EPA periodically requires water systems to test for unregulated contaminants to better understand their occurrence in drinking water. These compounds are not regulated, and therefore, have no additional reporting and/or treatment requirements. Glendale was selected by EPA to conduct this testing in 2013.
 
-Substance | MCLG | MCL | [^7] Level Found | Status | Sources of Contamination
+Please note that "level found" is the average level during the calendar year.
+
+Substance | MCLG | MCL | Level Found | Status | Sources of Contamination
 ----------|:----:|:---:|:-----------:|:------:|-------------------------
 Chlorate (2013) | NA | NA | 123 ug/L (68.0 - 226) | <i class="fa fa-smile-o" aria-hidden="true"></i> | Agricultural defoliant or desiccant; disinfection by-product; used in chlorine dioxide production
 Chromium-Total (2013) | NA | 100 mg/L | 0.37 ug/L (0.24 - 0.46) | <i class="fa fa-smile-o" aria-hidden="true"></i> | Sum of chromium in all valence states See chromium-6 for more information.
@@ -244,17 +243,31 @@ The following is a complete list of compounds that were tested under this regula
 
 The following table lists the contaminants that were detected by the Village of Whitefish Bay in its monitoring.  
 
-Substance | &nbsp;&nbsp;&nbsp;MCLG&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;MCL &nbsp;&nbsp;&nbsp; | [^8] Level Found | Status | Sources of Contamination
+*Disinfection By-Products*
+
+Please note that "level found" in this section is the LRAA. This value can include data from a previous year.
+
+For monitoring location SSS-01:
+
+Substance | &nbsp;&nbsp;&nbsp;MCLG&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;MCL &nbsp;&nbsp;&nbsp; | Level Found | Status | Sources of Contamination
 ----------|:----:|:---:|:-----------:|:------:|-------------------------
-HAA5  | 60 ug/L | 60 ug/L | 9.8 ug/L </br> (4.9 - 13.2) | <i class="fa fa-smile-o" aria-hidden="true"></i> | By-product of drinking water chlorination
-TTHM  | 0 | 80 ug/L | 17.3 ug/L </br> (9.2 - 22.5) |<i class="fa fa-smile-o" aria-hidden="true"></i> | By-product of drinking water chlorination
+HAA5  | 60 ug/L | 60 ug/L | 8.8 ug/L </br> (6.8 - 11.3) | <i class="fa fa-smile-o" aria-hidden="true"></i> | By-product of drinking water chlorination
+TTHM  | 0 | 80 ug/L | 14.4 ug/L </br> (10.8 - 16.9) |<i class="fa fa-smile-o" aria-hidden="true"></i> | By-product of drinking water chlorination
 
+For monitoring location SSS-02:
 
-*Unregulated Contaminant Monitoring Rule 3*
+Substance | &nbsp;&nbsp;&nbsp;MCLG&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;MCL &nbsp;&nbsp;&nbsp; | Level Found | Status | Sources of Contamination
+----------|:----:|:---:|:-----------:|:------:|-------------------------
+HAA5  | 60 ug/L | 60 ug/L | 8.4 ug/L </br> (6.0 - 11.4) | <i class="fa fa-smile-o" aria-hidden="true"></i> | By-product of drinking water chlorination
+TTHM  | 0 | 80 ug/L | 15.5 ug/L </br> (9.6 - 20.1) |<i class="fa fa-smile-o" aria-hidden="true"></i> | By-product of drinking water chlorination
+
+*Unregulated Contaminant Monitoring Rule*
 
 EPA periodically requires water systems to test for unregulated contaminants to better understand their occurrence in drinking water. These compounds are not regulated, and therefore, have no additional reporting and/or treatment requirements. Whitefish Bay was selected to do this monitoring from the summer of 2014 to Spring of 2015.
 
-Substance | MCLG | MCL | [^9] Level Found | Status | Sources of Contamination
+Please note that "level found" is the average level during the calendar year.
+
+Substance | MCLG | MCL | Level Found | Status | Sources of Contamination
 ----------|:----:|:---:|:-----------:|:------:|-------------------------
 Chlorate (2015) | NA | NA | 84.6 ug/L (81.6 - 86.7) | <i class="fa fa-smile-o" aria-hidden="true"></i> | Agricultural defoliant or desiccant; disinfection by-product; used in chlorine dioxide production
 Chromium-Total (2015) | NA | 100 mg/L | 0.37 ug/L (0.30 - 0.46) | <i class="fa fa-smile-o" aria-hidden="true"></i> | Sum of chromium in all valence states See chromium-6 for more information.
@@ -268,23 +281,11 @@ The following is a complete list of compounds that were tested under this regula
 > <sub>1,2,3-trichloropropane, 1,1-dichloroethane, 1,3-butadiene, 1,4-dioxane, bromochloromethane (Halon 1011), bromomethane, chlorate, chlorodifluoromethane (HCFC-22), chloromethane, chromium, chromium-6, cobalt, molybdenum, perfluorobutanesulfonic acid (PFBS), perfluoroctanoic acid (PFOA), perfluoroheptanoic acid (PFHpA), perfluorohexanesulfonic acid (PFHxS), perfluorononanoic acid (PFNA), perfluorooctanesulfonic acid (PFOS), strontium, vanadium</sub>
 
 
-[^1]: No more than 5.0% samples total coliform-positive (TC-positive) in a month are allowed. For each of our members, no more than one sample can be total coliform-positive per month. Every sample that has total coliform must be analyzed for either fecal coliforms or E. coli if two consecutive TC-positive samples, and one is also positive for E.coli fecal coliforms, system has an acute MCL violaton.
+[^1]: "Level found" is the average level  during the calendar year.
 
-[^2]: WDNR determines when compliance monitoring is to occur. Last compliance monitoring event was during the summer of 2015. Please note that copper does not have a maximum contaminant level. Instead it has an action level. To determine compliance with regulation, all results collected from monitoring event are ranked highest to lowest. The 90th percentile value of that set must at or below the 1.3 ug/L. The "level found" is the 90th percentile value from the latest monitoring event (2015). Ten percent (10%) of the samples were above this value and ninety percent (90%) of the samples were below this value.
+[^2]: Ten percent (10%) of the results are at or above the 90th percentile and ninety percent (90%) of the samples are below.
 
-[^3]: Level found reported in this section is the average of all results for the calendar year. 
-
-[^4]: WDNR determines when compliance monitoring is to occur. Last compliance monitoring event was during the summer of 2015. Please note that lead does not have a maximum contaminant level. Instead it has an action level. To determine compliance with regulation, all results collected from monitoring event are ranked highest to lowest. The 90th percentile value of that set must at or below the 15 ug/L. The "level found" is the 90th percentile value from the latest monitoring event (2015). Ten percent (10%) of the samples were above this value and ninety percent (90%) of the samples were below this value.
-
-[^5]: The sum of these compounds is equal to TTHM. Individually, these compounds are not regulated.  
-
-[^6]: Level found reported in this section is the LRAA. This value can include data from a previous year and can be higher than the maximum value found during the year. 
-
-[^7]: Level found reported in this section is the average of all results for the calendar year.  
-
-[^8]: Level found reported in this section is the LRAA. This value can include data from a previous year and can be higher than the maximum value found during the year.  
-[^9]: Level found reported in this section is the average of all results for the calendar year.  
-  
+[^3]: The sum of these compounds is equal to TTHM. Individually, these compounds are not regulated. 
 
 * * *
 
@@ -316,9 +317,13 @@ In order to ensure that tap water is safe to drink, EPA prescribes regulations t
 
 Drinking water, including bottled water, may reasonably be expected to contain at least small amounts of some contaminants. The presence of contaminants does not necessarily indicate that water poses a health risk. More information about contaminants and potential health effects can be obtained by calling the Environmental Protection Agency’s safe drinking water hotline at (800) 426-4791. Some people may be more vulnerable to contaminants in drinking water than the general population. Immuno-compromised persons such as persons with cancer undergoing chemotherapy, persons who have undergone organ transplants, people with HIV/AIDS or other immune systems disorders, some elderly, and infants can be particularly at risk from infections. These people should seek advice about drinking water from their health care providers. EPA/CDC guidelines on appropriate means to lessen the risk of infection by cryptosporidium and other microbial contaminants are available from the Environmental Protection Agency’s safe drinking water hotline (800) 426-4791.
 
-### Lead Information
+* * * 
 
-If present, elevated levels of lead can cause serious health problems, especially for pregnant women and young children. Lead in drinking water is primarily from materials and components associated with service lines and home plumbing. North Shore Water Commission is responsible for providing high quality drinking water, but cannot control the variety of materials used in plumbing components. When your water has been sitting for several hours, you can minimize the potential for lead exposure by flushing your tap for 3 minutes before using water for drinking or cooking. If you are concerned about lead in your water, you may wish to have your water tested. Information on lead in drinking water, testing methods, and steps you can take to minimize exposure is available from the Safe Drinking Water Hotline or at [http://www.epa.gov/safewater/lead](http://www.epa.gov/safewater/lead).  
+## Lead Information
+
+If present, elevated levels of lead can cause serious health problems, especially for pregnant women and young children. Lead in drinking water is primarily from materials and components associated with service lines and home plumbing. North Shore Water Commission is responsible for providing high quality drinking water, but cannot control the variety of materials used in plumbing components. When your water has been sitting for several hours, you can minimize the potential for lead exposure by flushing your tap for 3 minutes before using water for drinking or cooking. If you are concerned about lead in your water, you may wish to have your water tested. Information on lead in drinking water, testing methods, and steps you can take to minimize exposure is available from the Safe Drinking Water Hotline at (800) 426-4791 or at [http://www.epa.gov/safewater/lead](http://www.epa.gov/safewater/lead).  
+
+The North Shore Health Department is another valuable resource. They can provide you with more information about the health effects of lead and how to test for lead in your home. Visit their website at [http://www.nshealthdept.org](http://www.nshealthdept.org) or call (414) 371-2980.  
 
 [Click here to see additional information about lead.](lead.md)
 
@@ -390,38 +395,8 @@ Association |
 [Wisconsin Water Works Association](http://www.wiawwa.org/) | ![Wisconsin Water Works Association Logo](img/wiawwa-logo-150.png) 
 [The Water Council](http://thewatercouncil.com/) | ![Water Council Logo](img/water-council-logo-150-729.png) 
 [Water Research Foundation](http://www.waterrf.org/) | ![Water Research Foundation Logo](img/WRF-logo-150-729.png)
-[West Shore Water Producers Association](http://www.westshorewater.org/)   | 
+[West Shore Water Producers Association](http://www.westshorewater.org/)   | <center>West Shore Water Producers Association</center>
 
-
-<!-- 
-* * *  
-
-![AWWA Logo](img/awwa-logo-150-729.png)  
-
-[American Water Works Association](https://www.awwa.org/)  
-
-* * *  
-
-![Water Council Logo](img/water-council-logo-150-729.png)  
-
-[The Water Council](http://thewatercouncil.com/)  
-
-* * *  
-
-![Water Research Foundation Logo](img/WRF-logo-150-729.png)  
-
-[Water Research Foundation](http://www.waterrf.org/)  
-
-* * *   
-
-[West Shore Water Producers Association](http://www.westshorewater.org/)   
-
-* * *  
-
-![Wisconsin Water Works Association Logo](img/wiawwa-logo-150.png)  
-
-[Wisconsin Water Works Association](http://www.wiawwa.org/)  
-
-* * *   -->
+* * *
 
 ## Footnotes

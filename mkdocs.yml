@@ -5,6 +5,8 @@ site_author: Eric Kiefer
 site_name: 2016 Annual Water Quality Report
 theme: readthedocs
 theme_dir: readthedocs-theme
+# theme: material
+# theme_dir: material-theme
 extra_css:
   - css/extra.css
 extra_javascript: 
