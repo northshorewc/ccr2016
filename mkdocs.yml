@@ -3,6 +3,7 @@ remote_branch: gh-pages
 site_url: https://northshorewc.github.io/ccr2016
 site_author: Eric Kiefer
 site_name: 2016 Annual Water Quality Report
+google_analytics: ['UA-93001027-1', 'northshorewc.github.io/ccr2016']
 theme: readthedocs
 theme_dir: readthedocs-theme
 # theme: material
