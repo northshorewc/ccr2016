@@ -1,13 +1,17 @@
 ---
 Author: Eric Kiefer
-Date: 2/24/2017
+Date: 3/8/2017
 ---
+
+<a href="/img/ccr2016.pdf" download>Click here to download PDF version</a>
+
+* * *
 
 ![nswc-logo](img/nswc-logo-long.png)  
 
 * * *
 
-# DRAFT 2016 Annual Water Quality Report
+# 2016 Annual Water Quality Report
 
 <!-- The following text is for the newspaper publication only. -->
 <!-- This report is available upon request to the public. For a paper copy, please contact your water utility or call (414) 963-0160. In addition to being published in this paper, the URL of the 2016 Annual Water Quality Report will be distributed by mail to water customers within the Village of Fox Point, City of Glendale, and Village of Whitefish Bay. -->
@@ -86,7 +90,7 @@ Cryptosporidium is being monitored in the raw water in compliance with the Long 
 
 ## Turbidity   
 
-In accordance with s. NR 810.29, Wisconsin Administrative Code, the treated surface water is monitored for turbidity to confirm that the filtered water is less than 0.30 NTU. Turbidity is a measure of the cloudiness of water. We monitor for it because it is a good indicator of the effectiveness of our filtration system. During the year, the highest single entry point turbidity measurement was 0.15 NTU. The lowest monthly percentage of samples meeting the turbidity limits was 100 percent.  
+In accordance with s. NR 810.29, Wisconsin Administrative Code, the treated surface water is monitored for turbidity to confirm that the filtered water is less than 0.30 NTU. Turbidity is a measure of the cloudiness of water. We monitor for turbidity because it is a good indicator of the effectiveness of our filtration system. During the year, the highest single entry point turbidity measurement was 0.15 NTU. The lowest monthly percentage of samples meeting the turbidity limits was 100 percent.  
 
 * * *
 
@@ -103,18 +107,9 @@ Please note that the term "level found" is used throughout this report. The mean
 
 The NSWC and its member utilities work together to ensure the water it delivers meets or exceeds all standards set forth by its regulatory agencies. The following sections show the contaminants that were detected by the NSWC in its monitoring.  Please note that we did not test for radon during 2016 because we were not required to. 
 
-
-<!-- *Microbiological*  
-
-
-Substance | MCLG | MCL | Level Found | Status | Sources of Contamination
-----------|:----:|:---:|:-----------:|:------:|-------------------------
-[^1] Coliform (TCR) | 0% positive samples | 5% of monthly samples | 0% |  <i class="fa fa-smile-o" aria-hidden="true"></i> | Naturally present in the environment   -->
-
-
 *Inorganic*   
 
-Substance | &nbsp;&nbsp;&nbsp;&nbsp;MCLG&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;&nbsp;MCL &nbsp;&nbsp;&nbsp;&nbsp; | Level Found | Status | Sources of Contamination
+Substance | &nbsp;&nbsp;&nbsp;MCLG&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;MCL &nbsp;&nbsp;&nbsp;&nbsp; | Level Found | Status | Sources of Contamination
 ----------|:---------------------------------:|:----------------------------------------:|:-----------:|:------:|-------------------------
 Antimony | 6 ug/L | 6 ug/L | 0.18 ug/L |  <i class="fa fa-smile-o" aria-hidden="true"></i> | Discharge from petroleum refineries; fire retardants; ceramics; electronics; solder
 Barium | 2 mg/L | 2 mg/L | 0.019 mg/L |  <i class="fa fa-smile-o" aria-hidden="true"></i> | Discharge of drilling wasts; discharge from metal refineries; erosion of natural deposits
@@ -325,29 +320,23 @@ If present, elevated levels of lead can cause serious health problems, especiall
 
 The North Shore Health Department is another valuable resource. They can provide you with more information about the health effects of lead and how to test for lead in your home. Visit their website at [http://www.nshealthdept.org](http://www.nshealthdept.org) or call (414) 371-2980.  
 
-[Click here to see additional information about lead.](lead.md)
-
 * * *
 
 ## Treatment Process
 
-The plant is a conventional water treatment facility that starts with a single intake in Lake Michigan which is approximately 4,000 feet offshore. Water enters the intake through 3 inverted cones that are protected with bar screens and a mussel control system.  
+The plant is a conventional water treatment facility that starts with an intake in Lake Michigan. Water enters the intake that are protected with bar screens and a mussel control system.  
 
-Water travelling through the intake passes a traveling screen upon arriving at the shore—the location of the Klode Park Station. Gravity forces the water to fill a large shorewell that has 4 raw water pumps submersed in it. Lake water is pumped from this station to the Bender treatment plant which is nearly a mile away in Glendale.  
+Water travelling through the intake passes a traveling screen upon arriving at the Klode Park Station. Gravity forces the water to fill a large shorewell that has several raw water pumps submersed in it. Lake water is pumped from this station to the Bender treatment plant which is nearly a mile away in Glendale.  
 
-Upon arriving at the Bender treatment plant, aluminum sulfate (alum) and polymer are added to promote settling of solids. This water then travels very slowly through a system of 5 rectangular basins that provide a location for particulate matter to accumulate.  
+Upon arriving at the Bender treatment plant, aluminum sulfate (alum) and polymer are added to promote settling of solids. This water then travels very slowly through a system of rectangular basins that provide a location for particulate matter to accumulate.  
 
-Eight rapid sand filters remove remaining particulate matter and clean water is stored in a clearwell below the filters. There are 3 intermediate pumps (sometimes referred to as transfer or low lift pumps) which force the filtered water through the fully redundant ultraviolet (UV) disinfection system which inactivates pathogens such as cryptosporidium. Before going into the UV reactors, fluoride is added to prevent tooth decay. After the UV reactors, sodium hypochlorite (a form of chlorine) is used to disinfect any remaining pathogens.  
+Rapid sand filters remove remaining particulate matter and clean water is stored in a clearwell below the filters. There are intermediate pumps (sometimes referred to as transfer or low lift pumps) which force the filtered water through the fully redundant ultraviolet (UV) disinfection system which inactivates pathogens such as cryptosporidium. Before going into the UV reactors, fluoride is added to prevent tooth decay. After the UV reactors, sodium hypochlorite (a form of chlorine) is used to disinfect any remaining pathogens.  
 
-Underground piping directs the water to our 4 below-grade clearwells (historically they have been referred to as our "reservoirs") that provide approximately 7 million gallons of storage capacity. While in the clearwells, water continues to react with chlorine so that proper disinfection is achieved.  
+Underground piping directs the water to our clearwells (historically they have been referred to as our "reservoirs"). While in the clearwells, water continues to react with chlorine so that proper disinfection is achieved.  
 
-Water is drawn out of the clearwells with our 5 high service pumps. Underground piping directs the water to a chemical feed vault that allows for the addition of ammonium hydroxide (also referred to as aqua ammonia) and phosphate. The ammonium hydroxide converts the chlorine to another disinfectant, chloramine, that is used by neighboring communities and is can reduce disinfection by-products. Phosphate is also added at this point to reduce lead and copper leaching within premise plumbing.
+Water is drawn out of the clearwells with our high service pumps. Underground piping directs the water to a chemical feed vault that allows for the addition of ammonium hydroxide (also referred to as aqua ammonia) and phosphate. The ammonium hydroxide converts the chlorine to another disinfectant, chloramine, that is used by neighboring communities and can reduce disinfection by-products. Phosphate is also added at this point to reduce lead and copper leaching within pipes and plumbing fixtures in your home.
 
 The high service pumps deliver potable water to its members through metering pits located on the grounds of the Bender facility. There are several interconnections between members that the NSWC monitors; however, the bulk of the water stays within each member’s system after initial delivery.  
-
-![Treatment Process](img/Treatment-Process.jpg)
-
-[Click here for PDF version of diagram.](img/Treatment-Process.pdf)
 
 * * *
 
