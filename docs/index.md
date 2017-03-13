@@ -2,10 +2,10 @@
 Author: Eric Kiefer
 Date: 3/8/2017
 ---
-
+<!-- 
 <a href="http://northshorewater.org/CCR2016" download>Click here to download PDF version</a>
 
-* * *
+* * * -->
 
 ![nswc-logo](img/nswc-logo-long.png)  
 
@@ -30,7 +30,7 @@ The North Shore Water Commission (NSWC) operates and maintains the Water Filtrat
 
 Your water utility is responsible for connecting customers to the water system, metering, and responding to distribution problems such as main breaks. You can find out who your water utility is by checking your water bill. If you experience a water-related problem or have questions about your water bill, please contact your water utility for assistance. 
 
-[Fox Point Water Utility](http://www.villageoffoxpoint.com/)| [Glendale Water Utility](http://www.glendale-wi.org/)| [Whitefish Bay Water Utility](http://www.wfbvillage.org/)
+[Fox Point Water Utility](http://www.villageoffoxpoint.com/)| [Glendale Water Utility](http://www.glendale-wi.org)| [Whitefish Bay Water Utility](http://www.wfbvillage.org)
 :----------------------------------------------------------:|:-----------------------------------------------------:|:--------------------------------------------------------:
 ![Fox Point Logo](img/fox-point-logo-150.png)  | ![Glendale Logo](img/glendale-logo-150.png)  | ![Whitefish Bay Logo](img/wfb-logo-150-250.png)
 (414) 351-8900 | (414) 228-1719 | (414) 962-6690
@@ -55,7 +55,7 @@ Regular meetings are usually held on the 2nd Wednesday of the month at 8:00 AM i
 
 ## More Information About Us
 
-For additional information about water quality on the internet, please visit WDNR’s website at [http://dnr.wi.gov/topic/DrinkingWater](http://dnr.wi.gov/topic/DrinkingWater), the EPA’s web site at [http://www.epa.gov/safewater](http://www.epa.gov/safewater), or our web site at [http://www.northshorewater.org](http://www.northshorewater.org). For more information about our member communities visit: [http://www.villageoffoxpoint.com](http://www.villageoffoxpoint.com/), [http://www.glendale-wi.org/](http://www.glendale-wi.org/), and [http://www.wfbvillage.org/](http://www.wfbvillage.org/).  
+For additional information about water quality on the internet, please visit WDNR’s website at [http://dnr.wi.gov/topic/DrinkingWater](http://dnr.wi.gov/topic/DrinkingWater), the EPA’s web site at [http://www.epa.gov/safewater](http://www.epa.gov/safewater), or our web site at [http://www.northshorewater.org](http://www.northshorewater.org). For more information about our member communities visit: [http://www.villageoffoxpoint.com](http://www.villageoffoxpoint.com/), [http://www.glendale-wi.org](http://www.glendale-wi.org), and [http://www.wfbvillage.org](http://www.wfbvillage.org).  
 
 * * *
 
@@ -221,10 +221,10 @@ Substance | MCLG | MCL | Level Found | Status | Sources of Contamination
 ----------|:----:|:---:|:-----------:|:------:|-------------------------
 Chlorate (2013) | NA | NA | 123 ug/L (68.0 - 226) | <i class="fa fa-smile-o" aria-hidden="true"></i> | Agricultural defoliant or desiccant; disinfection by-product; used in chlorine dioxide production
 Chromium-Total (2013) | NA | 100 mg/L | 0.37 ug/L (0.24 - 0.46) | <i class="fa fa-smile-o" aria-hidden="true"></i> | Sum of chromium in all valence states See chromium-6 for more information.
-Chromium-6 (2013) | NA | NA | 0.18 ug/L (0.10 - 0.24) | <i class="fa fa-smile-o" aria-hidden="true"></i> | Naturally-occuring element; used in making steel and other alloys; chromium-3 and -6 forms are used for chrome plating, dyes and pigments, leather tanning, and wood preservation
+Chromium-6 (2013) | NA | NA | 0.18 ug/L (0.10 - 0.24) | <i class="fa fa-smile-o" aria-hidden="true"></i> | Naturally-occurring element; used in making steel and other alloys; chromium-3 and -6 forms are used for chrome plating, dyes and pigments, leather tanning, and wood preservation
 Molybdenum (2013) | NA | NA | 0.14 ug/L (ND - 1.1) | <i class="fa fa-smile-o" aria-hidden="true"></i> | Naturally-occurring metal found in small amounts in soil and rock. It can also be found in groundwater, either naturally or as the result of industrial activities
-Strontium (2013) | NA | NA | 118 ug/L (113 - 127) | <i class="fa fa-smile-o" aria-hidden="true"></i> | Naturally-occuring element; historically, commerical use has been in the faceplate of cathode ray tubes
-Vanadium (2013) | NA | NA | 0.23 ug/L (ND - 0.30) | <i class="fa fa-smile-o" aria-hidden="true"></i> | Naturally-occuring metal; used as vanadium pentoxide which is a chemical intermediate and catalyst
+Strontium (2013) | NA | NA | 118 ug/L (113 - 127) | <i class="fa fa-smile-o" aria-hidden="true"></i> | Naturally-occurring element; historically, commercial use has been in the faceplate of cathode ray tubes
+Vanadium (2013) | NA | NA | 0.23 ug/L (ND - 0.30) | <i class="fa fa-smile-o" aria-hidden="true"></i> | Naturally-occurring metal; used as vanadium pentoxide which is a chemical intermediate and catalyst
 
 The following is a complete list of compounds that were tested under this regulation:  
 
@@ -266,10 +266,10 @@ Substance | MCLG | MCL | Level Found | Status | Sources of Contamination
 ----------|:----:|:---:|:-----------:|:------:|-------------------------
 Chlorate (2015) | NA | NA | 84.6 ug/L (81.6 - 86.7) | <i class="fa fa-smile-o" aria-hidden="true"></i> | Agricultural defoliant or desiccant; disinfection by-product; used in chlorine dioxide production
 Chromium-Total (2015) | NA | 100 mg/L | 0.37 ug/L (0.30 - 0.46) | <i class="fa fa-smile-o" aria-hidden="true"></i> | Sum of chromium in all valence states See chromium-6 for more information.
-Chromium-6 (2015) | NA | NA | 0.19 ug/L (0.15 - 0.22) | <i class="fa fa-smile-o" aria-hidden="true"></i> | Naturally-occuring element; used in making steel and other alloys; chromium-3 and -6 forms are used for chrome plating, dyes and pigments, leather tanning, and wood preservation
+Chromium-6 (2015) | NA | NA | 0.19 ug/L (0.15 - 0.22) | <i class="fa fa-smile-o" aria-hidden="true"></i> | Naturally-occurring element; used in making steel and other alloys; chromium-3 and -6 forms are used for chrome plating, dyes and pigments, leather tanning, and wood preservation
 Molybdenum (2015) | NA | NA | 0.28 ug/L (ND - 1.1) | <i class="fa fa-smile-o" aria-hidden="true"></i> | Naturally-occurring metal found in small amounts in soil and rock. It can also be found in groundwater, either naturally or as the result of industrial activities
-Strontium (2015) | NA | NA | 125 ug/L (121 - 128) | <i class="fa fa-smile-o" aria-hidden="true"></i> | Naturally-occuring element; historically, commerical use has been in the faceplate of cathode ray tubes
-Vanadium (2015) | NA | NA | 0.12 ug/L (ND - 0.24) | <i class="fa fa-smile-o" aria-hidden="true"></i> | Naturally-occuring metal; used as vanadium pentoxide which is a chemical intermediate and catalyst
+Strontium (2015) | NA | NA | 125 ug/L (121 - 128) | <i class="fa fa-smile-o" aria-hidden="true"></i> | Naturally-occurring element; historically, commercial use has been in the faceplate of cathode ray tubes
+Vanadium (2015) | NA | NA | 0.12 ug/L (ND - 0.24) | <i class="fa fa-smile-o" aria-hidden="true"></i> | Naturally-occurring metal; used as vanadium pentoxide which is a chemical intermediate and catalyst
 
 The following is a complete list of compounds that were tested under this regulation:  
 
@@ -355,7 +355,7 @@ Alternate | Scott Botcher | [sbotcher@villageoffoxpoint.com](mailto:sbotcher@vil
 
 Office | Office Holder | Email | Phone
 -------|---------------|-------|------
-Member | Dave Eastman | [d.eastman@glendale-wi.org](mailto:d.eastman@glendale-wi.gov) | (414) 228-1746
+Member | Dave Eastman | [D.Eastman@glendale-wi.gov](mailto:d.eastman@glendale-wi.gov) | (414) 228-1746
 Alternate | Rachel Reiss | [R.Reiss@glendale-wi.gov](mailto:R.Reiss@glendale-wi.gov) | (414) 228-1703
 Fiscal Agent | Linda DiFrances | [L.DiFrances@glendale-wi.gov](mailto:L.DiFrances@glendale-wi.gov) | (414) 228-1701 
 
