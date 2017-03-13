@@ -115,7 +115,7 @@ Antimony | 6 ug/L | 6 ug/L | 0.18 ug/L |  <i class="fa fa-smile-o" aria-hidden="
 Barium | 2 mg/L | 2 mg/L | 0.019 mg/L |  <i class="fa fa-smile-o" aria-hidden="true"></i> | Discharge of drilling wastes; discharge from metal refineries; erosion of natural deposits
 Cyanide (4/21/2014) | 200 ug/L | 200 ug/L | 10 ug/L | <i class="fa fa-smile-o" aria-hidden="true"></i> | Discharge from steel/metal factories; discharge from plastic and fertilizer factories
 [^1] Fluoride | 4 mg/L | 4 mg/L | 0.80 mg/L </br> (0.71 - 0.93) | <i class="fa fa-smile-o" aria-hidden="true"></i> | Erosion of natural deposits; Water additive which promotes strong teeth; discharge from fertilizer and aluminum factories
-Nickel | NA | 100 ug/L | 1.2 ug/L | <i class="fa fa-smile-o" aria-hidden="true"></i> | Nickel occurs naturally in soils, groundwater and surface waters and is often used in electroplating, stainless steel and alloy products
+Nickel | 100 ug/L | 100 ug/L | 1.2 ug/L | <i class="fa fa-smile-o" aria-hidden="true"></i> | Nickel occurs naturally in soils, groundwater and surface waters and is often used in electroplating, stainless steel and alloy products
 Nitrate (NO3-N) | 10 mg/L | 10 mg/L | 0.49 mg/L | <i class="fa fa-smile-o" aria-hidden="true"></i> | Runoff from fertilizer use; Leaching from septic tanks, sewage; erosion of natural deposits
 Sodium | NA | NA | 14 mg/L | <i class="fa fa-smile-o" aria-hidden="true"></i> | NA 
 
