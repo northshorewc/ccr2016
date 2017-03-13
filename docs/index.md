@@ -3,7 +3,7 @@ Author: Eric Kiefer
 Date: 3/8/2017
 ---
 
-<a href="http://northshorewater.org/CCR2016" download>Click here to download PDF version</a>
+<a href="http://www.northshorewater.org/images/ccr/CCR2016.pdf" download>Click here to download PDF version</a>
 
 * * *
 
