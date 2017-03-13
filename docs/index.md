@@ -220,7 +220,7 @@ Please note that "level found" is the average level during the calendar year.
 Substance | MCLG | MCL | Level Found | Status | Sources of Contamination
 ----------|:----:|:---:|:-----------:|:------:|-------------------------
 Chlorate (2013) | NA | NA | 123 ug/L (68.0 - 226) | <i class="fa fa-smile-o" aria-hidden="true"></i> | Agricultural defoliant or desiccant; disinfection by-product; used in chlorine dioxide production
-Chromium-Total (2013) | NA | 100 mg/L | 0.37 ug/L (0.24 - 0.46) | <i class="fa fa-smile-o" aria-hidden="true"></i> | Sum of chromium in all valence states See chromium-6 for more information.
+Chromium-Total (2013) | NA | 100 ug/L | 0.37 ug/L (0.24 - 0.46) | <i class="fa fa-smile-o" aria-hidden="true"></i> | Sum of chromium in all valence states See chromium-6 for more information.
 Chromium-6 (2013) | NA | NA | 0.18 ug/L (0.10 - 0.24) | <i class="fa fa-smile-o" aria-hidden="true"></i> | Naturally-occurring element; used in making steel and other alloys; chromium-3 and -6 forms are used for chrome plating, dyes and pigments, leather tanning, and wood preservation
 Molybdenum (2013) | NA | NA | 0.14 ug/L (ND - 1.1) | <i class="fa fa-smile-o" aria-hidden="true"></i> | Naturally-occurring metal found in small amounts in soil and rock. It can also be found in groundwater, either naturally or as the result of industrial activities
 Strontium (2013) | NA | NA | 118 ug/L (113 - 127) | <i class="fa fa-smile-o" aria-hidden="true"></i> | Naturally-occurring element; historically, commercial use has been in the faceplate of cathode ray tubes
@@ -265,7 +265,7 @@ Please note that "level found" is the average level during the calendar year.
 Substance | MCLG | MCL | Level Found | Status | Sources of Contamination
 ----------|:----:|:---:|:-----------:|:------:|-------------------------
 Chlorate (2015) | NA | NA | 84.6 ug/L (81.6 - 86.7) | <i class="fa fa-smile-o" aria-hidden="true"></i> | Agricultural defoliant or desiccant; disinfection by-product; used in chlorine dioxide production
-Chromium-Total (2015) | NA | 100 mg/L | 0.37 ug/L (0.30 - 0.46) | <i class="fa fa-smile-o" aria-hidden="true"></i> | Sum of chromium in all valence states See chromium-6 for more information.
+Chromium-Total (2015) | NA | 100 ug/L | 0.37 ug/L (0.30 - 0.46) | <i class="fa fa-smile-o" aria-hidden="true"></i> | Sum of chromium in all valence states See chromium-6 for more information.
 Chromium-6 (2015) | NA | NA | 0.19 ug/L (0.15 - 0.22) | <i class="fa fa-smile-o" aria-hidden="true"></i> | Naturally-occurring element; used in making steel and other alloys; chromium-3 and -6 forms are used for chrome plating, dyes and pigments, leather tanning, and wood preservation
 Molybdenum (2015) | NA | NA | 0.28 ug/L (ND - 1.1) | <i class="fa fa-smile-o" aria-hidden="true"></i> | Naturally-occurring metal found in small amounts in soil and rock. It can also be found in groundwater, either naturally or as the result of industrial activities
 Strontium (2015) | NA | NA | 125 ug/L (121 - 128) | <i class="fa fa-smile-o" aria-hidden="true"></i> | Naturally-occurring element; historically, commercial use has been in the faceplate of cathode ray tubes
