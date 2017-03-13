@@ -1,4 +1,5 @@
 # repo_url: https://github.com/northshorewc/ccr2016
+copyright: North Shore Water Commission &copy; 2017 - <a href='http://www.northshorewater.org'><i>visit us at www.northshorewater.org</i></a>
 remote_branch: gh-pages
 site_url: https://northshorewc.github.io/ccr2016
 site_author: Eric Kiefer
@@ -25,4 +26,5 @@ markdown_extensions:
   # - pymdownx.arithmatex:
 pages:
   - Home: index.md
+  # - Legal-Ad-NorthShoreNow: publish.md
   # - Additional Lead Information: lead.md
